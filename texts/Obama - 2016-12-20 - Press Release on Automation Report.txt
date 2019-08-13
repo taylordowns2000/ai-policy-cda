@@ -1,0 +1,33 @@
+Artificial Intelligence, Automation, and the Economy
+DECEMBER 20, 2016 AT 4:30 PM ET BY KRISTIN LEE
+
+Summary: Today, the White House released a new report on the ways that artificial intelligence will transform our economy over the coming years and decades.
+Editor’s Note: Staff from the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council, the Office of Management and Budget, the Office of Science and Technology Policy contributed to this post.
+
+Today, in order to ready the United States for a future in which artificial intelligence (AI) plays a growing role, the White House released a report on Artificial Intelligence, Automation, and the Economy. This report follows up on the Administration’s previous report, Preparing for the Future of Artificial Intelligence, which was released in October 2016, and which recommended that the White House publish a report on the economic impacts of artificial intelligence by the end of 2016.
+
+Accelerating AI capabilities will enable automation of some tasks that have long required human labor. These transformations will open up new opportunities for individuals, the economy, and society, but they will also disrupt the current livelihoods of millions of Americans. The new report examines the expected impact of AI-driven automation on the economy, and describes broad strategies that could increase the benefits of AI and mitigate its costs.
+
+AI-driven automation will transform the economy over the coming years and decades. The challenge for policymakers will be to update, strengthen, and adapt policies to respond to the economic effects of AI.
+
+Although it is difficult to predict these economic effects precisely, the report suggests that policymakers should prepare for five primary economic effects:
+
+Positive contributions to aggregate productivity growth;
+Changes in the skills demanded by the job market, including greater demand for higher-level technical skills;
+Uneven distribution of impact, across sectors, wage levels, education levels, job types, and locations;
+Churning of the job market as some jobs disappear while others are created; and
+The loss of jobs for some workers in the short-run, and possibly longer depending on policy responses.
+There is substantial uncertainty about how strongly these effects will be felt and how rapidly they will arrive. It is possible that AI will not have large, new effects on the economy, such that the coming years are subject to the same basic workforce trends seen in recent decades—some of which are positive, and others which are worrisome and may require policy changes. At the other end of the range of possibilities, the economy might experience a larger shock, with accelerating changes in the job market, and significantly more workers in need of assistance and retraining as their skills no longer match the demands of the job market. Given available evidence, it is not possible to make specific predictions, so policymakers must be prepared for a range of potential outcomes. At a minimum, some occupations such as drivers and cashiers are likely to face displacement from or a restructuring of their current jobs.
+
+Because the effects of AI-driven automation will be felt across the whole economy, and the areas of greatest impact may be difficult to predict, policy responses must be targeted to the whole economy. In addition, the economic effects of AI-driven automation may be difficult to separate from those of other factors such as other forms of technological change, globalization, reduction in market competition and worker bargaining power, and the effects of past public policy choices. Even if it is not possible to determine how much of the current transformation of the economy is caused by each of these factors, the policy challenges raised by the disruptions remain, and require a broad policy response.
+
+In the cases where it is possible to direct mitigations to particularly affected places and sectors, those approaches should be pursued. But more generally, the report suggests three broad strategies for addressing the impacts of AI-driven automation across the whole U.S. economy:
+
+Invest in and develop AI for its many benefits;
+Educate and train Americans for jobs of the future; and
+Aid workers in the transition and empower workers to ensure broadly shared growth.
+The report details what can be done to execute on these strategies. Continued engagement between government, industry, technical and policy experts, and the public should play an important role in moving the Nation toward policies that create broadly shared prosperity, unlock the creative potential of American companies and workers, advance diversity and inclusion of the technical community in AI, and ensure the Nation’s continued leadership in the creation and use of AI.
+Beyond this report, more work remains, to further explore the policy implications of AI. Most notably, AI creates important opportunities in cyberdefense, and can improve systems to detect fraudulent transactions and messages. 
+
+Kristin Lee
+Communications Director and Senior Policy Advisor

@@ -1,0 +1,232 @@
+SUMMARY OF THE 2018   
+DEPARTMENT OF DEFENSE   
+ARTIFICIAL INTELLIGENCE  
+STRATEGY  
+
+Harnessing AI to Advance  
+Our Security and Prosperity 2  
+
+This Page Intentional Left Blank 3  
+
+Table of Contents  
+
+  
+PREFACE .......................................................................................................................................................... 4 
+
+  
+
+INTRODUCTION  ........................................................................................................................................... 5   
+
+Harnessing AI to Advance Our Security and Prosperity  ............................................................................. 5   
+
+AI will benefit both the Department and the Nation .............................................................................. 6   
+
+STRATEGIC APPROACH ............................................................................................................................ 7   
+
+DoD is taking immediate action to realize the benefits of AI  ................................................................  7   
+
+Delivering AI-enabled capabilities that address key missions.   ............................................................  7   
+
+Scaling AI’s impact across DoD through a common foundation that enables decentralized development and experimentation.  ......................................................................................................... 7 
+
+  
+
+Cultivating a leading AI workforce. ........................................................................................................ 7   
+
+Engaging with commercial, academic, and international allies and partners.   ...................................  7   
+
+Leading in military ethics and AI safety.  ................................................................................................ 8   
+
+The Joint Artificial Intelligence Center is a focal point of the DoD AI Strategy .................................  9   
+
+STRATEGIC FOCUS AREAS  ..................................................................................................................... 11   
+
+Delivering AI-enabled capabilities that address key missions   ...............................................................  11   
+
+Partnering with leading private sector technology companies, academia, and global allies and partners  .......................................................................................................................................................... 12 
+
+  
+
+Cultivating a leading AI workforce ........................................................................................................... 14   
+
+Leading in military ethics and AI safety  ...................................................................................................  15   
+
+CONCLUSION  ............................................................................................................................................... 17 4  
+
+PREFACE  
+  
+
+The Department of Defense’s (DoD) Artificial Intelligence (AI) Strategy directs the DoD to accelerate the adoption of AI and the creation of a force fit for our time. A strong, technologically advanced  
+Department is essential for protecting the security of our nation, preserving access t o markets that will improve our standard of living, and ensuring that we are capable of passing intact to the younger generations the freedoms we currently enjoy.     
+AI is rapidly changing a wide range of businesses and industries. It is also poised to change the character of the future battlefield and the pace of threats we must face. We will harness the potential of AI to transform all functions of the Department  positively, thereby supporting and protecting U.S.  
+servicemembers, safeguard ing  U.S.  citizens,  defending  allies  and partners , and improv ing  the affordability, effectiveness, and speed of our operations . The women and men in the U.S. armed forces remain our enduring source of strength; we will use AI -enabled information, tools, and systems to empower, not replace, those who serve.  
+Realizing this vision requires identifying appropriate use cases for AI across DoD, rapidly piloting solutions, and scaling successes across our enterprise. The 2018 DoD AI Strategy, summarized here, will drive the urgency,  scale, and unity of effort needed to navigate this transformation. The Joint  
+Artificial Intelligence Center (JAIC) is the focal point for carrying it out. As we systematically explore  
+AI’s full potential, study its implications, and begin the process of l earning about its impact on defense, we will remain thoughtful and adaptive in our execution.   
+We cannot succeed alone; this undertaking requires the skill and commitment of those in government, close collaboration with academia and non-traditional centers of innovation in the commercial sector, and strong cohesion among international allies and partners. We must learn from others to help us achieve the fullest understanding of the potential of AI, and we must lead in responsibly developing and using these powerful technologies, in accordance with the law and our values.    
+As stewards of the security and prosperity of the American public, we will leverage the creativity and agility of our nation to address the technical, ethical, and societal challenges pose d by AI and leverage its opportunities in order to preserve the peace and provide security for future generations.   
+ 5  
+
+INTRODUCTION  
+Harnessing AI to Advance Our Security and Prosperity  
+
+The U.S. Department of Defense (DoD) protects our nation by deterring war  and winning the nation’s wars when deterrence fails .  In fulfilling this mission, we   have  always been at the forefront of technological advances to ensure an enduring competitive  military  advantage against those who threaten our security and safety.   
+Artificial intelligence (AI)  is one such technological adv ance. AI refers to the ability  of machines to perform tasks that normally require human intelligence –  for example, recognizing patterns, learning from experience, drawing conclusions, making predictions, or  taking action – whether digitally or as the smart software behind autonomous physical systems.  
+AI is poised to transform every industry, and is expected to impact every corner of the Department, spanning operations, training, sustainment, force protection, recruiting, healthcare, and many others .  
+With the application of AI to defense, we have an opportunity to improve support for and protection of  U.S.  service members , safeguard our citizens, defend our allies   and partners , and improve the affordability and speed of our operations.  
+Other nations, particularly China and Russia, are making significant investments in AI  for military purposes, including in applications that raise questions regarding  international norms and human rights.  These investments threaten to erode our  technological and operational advantages a nd destabilize  the free and open international order. The United States, together with its allies and partners, must adopt AI to maintain its strategic position, prevail on future battlefields, and safeguard this order. We will also seek to develop and use AI technologies in ways that advance security, peace, and stability in the long run.  We will lead in the responsible use and development of AI by articulating our vision and guiding principles for using AI in a lawful and ethical manner.   
+The costs of not implementing this strategy are clear. Failure to adopt AI will result in  legacy systems irrelevant to the defense of our people, eroding cohesion among allies and partners, reduced access to markets that will contribute to a decline in our prosperity and standard of living , and growing challenges to societies that have been built upon individual freedoms.  
+ 6  
+
+AI will benefit both the Department and the Nation   
+
+The Strategy directs that we will use AI in a human-centered manner to:  
+Support and protect U.S.  servicemembers and civilians around the world. We will incorporate AI into decision-making and operations to reduce risk to fielded forces and  generate military advantage. AI can help us better maintain our equipment, reduce operational costs, and improve readiness. Incorporating AI also has the potential to enhance our implementation of the Law of War. By improving the accuracy of military assessments and enhancing  mission precision, AI can reduce the risk o f civilian casualties and other collateral damage.   
+Protect our country and safeguard our citizens . AI will be used to protect the safety and security of U.S.  
+citizens and to enable a stronger defense of U.S.  critical infrastructure. Specifically, AI can  enhance our ability to  predict, identify, and respond to cyber  and physical threats from a range of sources, strengthening the defen se of the homeland from attack and discouraging attempts to disrupt U.S.  
+infrastructure such as financial networks, electric  grids, election processes, and medical systems.   
+Create an efficie nt and streamlined organization.  The ability of AI to reduce inefficiencies from manual , laborious, data-centric tasks will be harnessed across the Department with the objective of simplifying workflows and improving the speed and accuracy of repetitive tasks. These changes have the potential to shift human attention to higher -level reasoning and judgment, which remain areas in which the human role is critical.    
+Become a pioneer in scaling AI across a global enterprise . We recognize the tremendous utility of AI to a wide range of capabilities. To realize this potential  fully, we must pioneer AI approaches across the full scale of our  global defense enterprise in a manner that is Joint and interoperable with interagency, allied,  and  coalition partners .  Specifically, DoD will identify   and implement   new  organizational approaches, establish key AI  building blocks   and standards ,  develop and attract AI talent,  and introduce new operational models that will enable DoD to take advantage of AI  systematically at enterprise scale.  
+ 7  
+
+STRATEGIC APPROACH “We must anticipate the implications of new technologies on the battlefield, rigorously define the military problems anticipated in future conflict, and foster a culture of experimentation and calculated risk-taking.” – Summary of the 2018 National Defense Strategy of the United States of America   
+
+DoD is taking immediate action to realize the benefits of AI   
+
+The following is an overview of the strategic approach  that will guide  our efforts  to accelerate AI adoption.   
+
+Delivering AI-enabled capabilities that address key missions.   
+
+We will launch a set of initiatives to incorporate AI rapidly , iteratively, and responsibly to enhance military  decision-making and operations across key mission areas .  Examples include improving situational awareness and decision- making,  increasing the safety of operating equipment , implementing predictive maintenance and supply, and streamlining business processes .  We will prioritize  the  fielding  of  AI systems that augment the capabilities of our personnel by offloading tedious cognitive or physical tasks and introducing new ways of working.   
+
+Scaling AI’s impact across DoD through a common foundation that enables decentralized development and experimentation.   
+
+One of the U.S. military’s greatest strengths is the innovative character  of our forces. It is likely that the most transformative AI -enabled capabilities will arise from experiments at the “ forward edge,” that is, discovered  by the users themselves in  contexts  far removed  from  centralized offices and laboratories. Taking advantage of this concept of decentralized development and experimentation will require the Depart ment to put in place key building blocks and platforms to scale and  democratize access to AI. This includes creating a common foundation of shared data, reusable tools, frameworks and standards, and cloud and edge services . In parallel, we will take steps to ready  existing processes for  
+AI application  through digitization and smart  automation.  Taken together, these enterprise -wide changes promote the spread of adaptable problem -solving using AI , increase the  rate of experimentation and speed of delivery, and streamline the scaling of successful AI prototypes.   
+
+Cultivating a leading AI workforce.   
+
+The transformative and rapidly advancing nature of AI requires that the Department adapt it s culture, skills, and approaches.  To succeed, we will encourage rapid experimentation, and an iterative, risk -informed approach to AI implementation . We will cultivate the talent of our existing workforce by investing in providing comprehensive AI training, while simultaneously bringing critical AI skills into service by recruiting and partnering with world-class AI talent.   
+
+Engaging with commercial, academic, and international allies and partners.  
+
+Strong  partnerships  are  essential  at every stage in the AI  technology pipeline, from research   to deployment and sustainment. We will work   with academia and industry to help address   global challenges of significant societal importance, and make funding available to entice our best academics to invest in long-term research relevant to defense  and remain in the business of educating the next generation of AI talent. We will enhance partnerships  with U.S. industry to align civilian AI leadership with defense challenge s while evolving our crucial international alliances and partnerships  abroad.
+ 8  
+
+Further, we will engage with and contribute to the global  open-source community to identify and advance emerging technologies and applications.  
+
+Leading in military ethics and AI safety.   
+
+The Department will articulate its vision and guiding principles for us ing AI in a lawful and ethical manner to promote our values.  We will consult with leaders from across academi a, private industry, and the international community to advance AI ethics and safety in the military context. We will invest in the research and development of AI systems that are resilient, robust, reliable, and secure ; we will continue to fund research into techniques that produce more explainable AI ; and we will pioneer approaches for AI test, evaluation, verification, and validation. We will also seek opportunities to use  
+AI to reduce unintentional harm and collateral damage via increased situational awareness   and enhanced decision support. As we improve the technology and our use of it, we will continue to share our aims, ethical guidelines, and safety procedures to encourage responsible AI development and use by other nations.  
+ 9  
+
+The Joint Artificial Intelligence Center is a focal point of the  DoD  
+AI Strategy  
+
+We established a Joint Artificial Intelligence Center (JAIC) to accelerate the delivery  of AI-enabled capabilities, scale the Department -wide impact of AI, and synchronize DoD AI activities to expand  
+Joint Force advantages. Specifically, the JAIC will:   
+?   Rapidly deliver AI-enabled capabilities to address key missions, strengthening current military advantages and enhancing  future AI research and development efforts with mission needs, operational outcomes, user feedback, and data; ?   Establish a common foundation for scaling AI’s impact across DoD, leading strategic data acquisition and introducing unified data stores, reusable tools, frameworks and standards, and cloud and edge services; ?   Facilitate AI planning, policy, governance, ethics, safety, cybersecurity, and multilateral coordination; ?   Attract and cultivat e a world-class AI team  to supply trusted subject matter expertise on AI capability delivery and to create new accelerated learning experiences in AI across DoD  at all levels of professional education and training.  
+To derive maximum  value from AI applications throughout  the Department, the JAIC will operate across the full AI application lifecycle, with an emphasis on near -term execution  and AI adoption.  
+This enables consistency of approach, technology, and tools for delivery -focused AI projects. The work of the  JAIC will complement the efforts  of the Defense Advanced Research Projects Agency (DARPA), DoD laboratories ,  and other entities  focused on longer -term  technology creation and future AI research and development. The JAIC’s role across the AI application lifecycle is described in the following paragraphs.  
+Identifying and delivering prototypes. The JAIC will work with teams across DoD to identify, prioritize, and select new AI mission initiatives  systematically, and then execute an initial sequence of cross -functional use cases t hat  demonstrate value and spur momentum. These “National Mission Initiatives” or “NMIs”  involve deploying AI across the Joint Force for a select set of high- priority, pressing operational or business reform challenges. NMI s will be executed by cross -functional teams that  are composed of both JAIC personnel as well as other  subject matter experts from across the Department on a rotational basis. Additionally, the  JAIC will work closely with individual components to help identify, shape, and accelerate their component-specific AI deployments, called “Component Mission  
+Initiatives” or “CMIs.”   
+Sharing lessons and merging research with operations. Both NMI- and CMI-type efforts will include selecting commercial and academic partners for prototypes and employing standardized processes with respect to areas such as data, testing and evaluation, and cybersecurity. The  JAIC will use lessons learned from these initial pilots  to establish new processes and  systems that will be repeatabl e across additional projects. Given the rapidly changing nature of adversaries and situations, and the rapid pace of change in enabling technologies, JAIC execution   will  prioritize  dissolving  the traditional sharp division between research and operations. The insertion of new technologies into complex work systems changes the nature of the work, including new forms of brittleness and error, and uncovers new challenges  at the same time that it improves the work in other respects. Therefore, insights must 10 transition immediately to the research venue, and research must benefit by the immediate involvement of end users in the technology development process.  
+Scaling successful prototypes. The JAIC will work with the  Military Departments and Services and other organizations to scale use cases throughout the Department in a manner that aligns with and leverages enterprise cloud adoption. It will establish  a common foundation for scaling AI’s impact acr oss DoD, including shared data, reusable tools, frameworks and standards, and cloud and edge services. It will guide training programs across the Department to ensure broad access to the talent necessary to scale  
+AI applications. When partners are needed t o scale AI applications, the  JAIC will forge the right partnerships to execute NMIs and advise the Military  Departments and Services or other DoD  
+Components on building similar partnerships to execute their CMIs. These partners may include technology companies, consulting firms, academia, DoD laboratories, other government laboratories,  
+Federally Funded Research and Development Centers (FFRDC), and other entities, as appropriate.   
+Providing ongoing support. The JAIC will strengthen the efforts of the Military Departments and Services and other independent teams across DoD  as they continue to develop and execute new AI mission initiatives. This includes introducing processes and systems to improve,  assess, and sustain AI systems and solutions continuously across the enterprise.  
+Although its primary focus is execution, the JAIC will have an important role in synchronizing DoD  
+AI activities across all DoD  Components. This is essential for avoiding duplication and excess cost, fostering the sharing of lessons, and establishing the new enterprise approach. The  JAIC will work with DoD Components to develop a governance framework and standards for AI development and delivery and collaborate within DoD, across government, and with industry, academia, and U.S. allies and partners to strengthen partnerships, highlight critical needs, solve problems of urgent operational significance, and adapt AI technologies responsibly for DoD missions.  
+ 11  
+
+STRATEGIC FOCUS AREAS  
+
+Delivering AI-enabled capabilities that address key missions   
+
+We will use AI to provide next -generation capabilities that  increase the effectiveness of U.S.  forces and  support Department -wide reform efforts by addressing critical operational and business challenges. Our delivery approach will involve launching a sequence of initiatives to incorporate AI rapidly and iteratively and to experiment with new operating concepts, and then harvesting lessons to create repeatable processes and systems that allow all elements of the Department to do the same.  
+We will prioritize the fielding of AI systems that augment the capabilities of our personnel by offloading tedious cognitive or physical tasks and introducing new ways of working. This will require iterative, interdisciplinary  development of the technology in close collaboration with users and will demand early study of the cognitive and physical work that can be improved with AI.  
+There are numerous AI applications that could  improve our day-to-day operations or yield strategic advantages, many of which are currently in development  across the Department . Example areas in which we will apply AI are described below.  
+Improving situational awareness and decision-making. AI applied to perception tasks such as imagery analysis can extract useful information from raw data  and equip leaders with increased situational awareness .  
+AI can generate and help commanders explore new options so that they can select courses of action that best achieve mission outcomes, minimizing risks to both deployed forces and civilians.   
+Increasing safety of operating equipment. AI also has the potential to enhance the safety of operating aircraft, ships, and vehicles in complex, rapidly changing situations by alerting operators to hidden dangers.   
+Implementing  predictive maintenance and supply .  We  will use AI to predict the  failure  of critical p arts, automate diagnostics,   and plan maintenance based on data and equipment condition. Similar technology will be used to guide provisioning of spare parts and optimize inventory levels. T hese advances will ensure appropriate inventory levels, assist in  troubleshooting, and enable more rapidly deployable and adaptable forces at reduced cost .   
+Streamlining business processes. AI will be used with the objective of reduc ing the time spent on highly manual, repetitive, and frequent tasks. By enabling humans to supervise automated tasks,  AI has the potential to reduce the number and costs of mistakes , increase throughput and agility, and promote the allocation of DoD resources to higher-value activities and emerging mission priorities.  
+  
+  
+
+PREDICTIVE MAINTENANCE APPLICATIONS SUPPORTING OUR FORCES  
+
+AND DRIVING EFFICIENCIES  
+
+The Defense Innovation Unit (DIU) and the U.S. Air Force are working together and with the  
+JAIC to produce prototypes of Predictive Maintenance solutions and to scale successes. These commercially developed AI-based applications have the potential to predict more accurately maintenance needs on equipment, such as the E-3 Sentry, F-16 Fighting Falcon, F-35 Lightning  
+II, and Bradley Fighting Vehicle, thereby improving availability and reducing costs.
+ 12  
+
+Partnering with leading private sector technology companies, academia, and global allies and partners   
+
+We recognize that strong partners are crucial  at every stage in the technology pipeline, from research to deployment and sustainment.  Today, the U.S. private sector and academic institutions are at the forefront of modern AI advances. To ensure continued prosperity and the capacity to align  their AI leadership with critical defense challenges, we are committed  to strengthening the private sector and academia while bridging the divide between non- traditional centers of innovation, such as the AI startup community, and the defense mission. To accomplish this, we will do the following.   
+Forming open mission initiatives focused on global challenges . We will form open AI  missions with academia and industry that will contribute to addressing  global challenges of significant societal importance, such as operationalizing AI for humanitarian assistance and disaster relief for wildfires, hurricanes, and earthquakes. We will bring our data, domain expertise, and real -world problems to these public-private partnerships , and combine efforts with a wide range of a ctors to produce inspiring AI technology that benefits society beyond the benefit of fulfilling our core defense mission. These open missions will challenge a broad community to advance the state of AI and learn how to operationalize the technologies on an  integrated basis across domestic and international organizations . They will contribute to the development of  thousands of new AI experts needed for public service over the next decade and spur future AI progress across multiple sectors.   
+Strengthening academic partnerships and seeding new AI innovation districts . For academia, we will make longerterm, stable funding available to entice our best academics to invest in long-term research relevant to critical DoD areas and remain in the business of educat ing the next generation of AI talent. This entails increasing investment through existing channels, such as DARPA/IARPA and the Military  
+Service Research Laboratories, and sponsoring long-term discoveries relevant to the Department. It also involves stimulating the development of geographic concentrations of interconnected companies and institutions in AI. Strong and stable academic partnerships clustered in this manner will provide benefits to the Department, industry, and national competiveness.  
+Enhancing partnership with U.S. industry. Engaging with and strengthening the AI technology ecosystem requires us to experiment with a range of partnership  models. These include bold new AI initiatives with large industrial partners, small start-ups, and venture capital firms. In addition, we will take steps to make it easier for members of the AI community  to engage with the Department , for example, by working to accelerate critical partnership processes and lower administrative barriers. We will also establish a centralized AI portal for potential partners that  details key processes, topics of interest, and contacts in order to streamline contracting, acquisition, and on-boarding processes.   
+Evolving international alliances and partnerships . An extended network of mutually beneficial alliances and partnerships provides a durable means of overcoming global AI challenges, deterring aggression, and supporting stability through cooperation.  Foreign allies  and partners offer critical perspectives  and talent that can   be leveraged through personnel exchanges, combined portfolio planning ,  and  the deepened interoperability and trust that comes from collaborative AI development and deployment.  
+Engaging with the open source community. The open-source community is a vibrant global incubator of talented individuals and transformative ideas. We will contribute our data, challenges, research, and technologies to this community and engage with the open-source ecosystem as a vehicle for attracting talent, identifying and advancin g new AI technologies that can transform defense, and broadening our accessible technology base.
+ 13  
+
+    
+
+PRODUCTIVE PRIVATE PARTNERSHIPS: DEFENSE INNOVATION UNIT   
+
+The Defense Innovation Unit (DIU) is a fast-moving government entity that accelerates the adoption of commercial technology into the U.S. military to strengthen national security. DIU works with companies to prototype commercial solutions against DoD problems. Contracts are typically awarded in less than 90 days. Since it was established in 2016, DIU has awarded nearly 100 prototype contracts across a variety of areas, including several AI projects. Of these, several were transferred to the Military Departments and Services to increase capability, reduce costs, and improve efficiency. 
+ 14  
+
+Cultivating a leading AI workforce    
+
+The transformative and rapidly advancing nature of AI requires that the Department adapt its culture, cultivate new skills, and streamline approaches to develop, attract, and partner with AI talent. We will introduce new functions, high- impact rotational programs, and expanded leadership opportunities, ensuring we recruit, train, promote, and retain a leading AI workforce. This inc ludes the following areas of further development and implementation.  
+Offering the chance to make an impact. DoD offers opportunities to develop cutting-edge AI applications to meet some of the N ation’s most difficult and most consequential challenges, leveraging the latest technology to create positive real -world impact for U.S. forces and the society and freedoms that we defend.    
+Providing comprehensive AI training and cultivating workforce talent. We will invest in developing the skills of our existing workforce and ensuring their career progression. The DoD workforce will have access to curated AI training programs designed to help them  keep pace with AI developments in the private sector, accelerate the achievement of expertise,  and give personnel the knowledge they need to adapt to new roles in the future . These AI training programs will be made widely available , from junior personnel to AI engineers to senior leader s, and will leverage digital content combined with tailored instruction from leading experts.   
+Bringing critical AI skills into service . We will use streamlined, non -traditional pathways to bring worldclass AI talent into service and expand access to outside expertise. This will complement our existing workforce with roles such as machine l earning engineers, data engineers, data scientists, and AI product managers, in order to form a modern, agile, AI -advantaged workforce with a deep passion for addressing the world’s most pressing challenges.  
+Building a culture that embraces experimentation .  We are   building a culture that  welcomes  and rewards appropriate risk-taking to push the art of the possible: rapid learning by failing quickly, early, and on a small scale. Although  embracing disruptive approaches will  not be easy, doing so  is imperative for implementing and adopting AI  – which requires running experiments daily, iterating based on user feedback, measuring results, and continuously adapting.   
+  
+  
+  
+
+PLANNED AI TRAINING PROGRAMS FOR THE DEFENSE WORKFORCE   
+
+DoD recognizes the need to educate our workforce to navigate the AI era. We are leveraging the rise of digital content, including MOOCs (massive open online courses), e-books, and online videos, to provide employees with curated learning experiences, and augmenting this with classroom instruction from AI experts in industry and at top U.S. universities.   
+This AI training will provide: Senior leaders with an understanding of what AI can do for defense, how to create organizational AI strategies, and how to make appropriate resource allocation decisions for improved technological incorporation; mid-level leaders with knowledge for directing AI projects, resource allocation, and progress tracking, and for developing technical backgrounds for successful AI project deliveries; and technical staff with knowledge of comprehensive AI technologies for solution incorporation.
+ 15  
+
+Leading in military ethics and AI safety   
+
+During this upcoming AI-based technological transition, we will lead in complying with international and domestic law, upholding and promoting our Nation’s values, and strengthening our partnerships with other nations. As part of our  strong commitment to ethics, humanitarian considerations, and both near- and long-term AI safety, we will take the following actions.   
+Developing AI principles for defense. The Department will articulate its vision and guiding principles for AI ethics and safety in defense  matters. We will consult with a wide range of experts and advisors from across academia, the private sector, and the international community to learn as much as possible from past insights and existing approaches to AI ethics and safety.   We will also continue to undertake research and adopt policies as necessary to ensure that AI systems are used responsibly and ethically.   
+One  example of existing  guidance  is  DoD  Directive 3000.09, issued in 2012, which establishes guidelines  to minimize the probability and conseque nces of failure in   autonomous and semiautonomous weapon systems that could lead to unintended engagements. The Directive requires that autonomous and semi-autonomous weapon systems be designed to allow commanders and operators to exercise appropriate levels of human judgment over the use of force. Among other things, the  
+Directive also requires  realistic and rigorous testing and clear human- machine interface , as well as appropriate training for commanders and operators, so that those weapons function as anticipated in realistic operational environments against adaptive adversaries .  
+Investing in research and d evelopment for resilient, robust, reliable , and secure  AI. In order to ensure DoD AI systems are safe, secure, and robust , we will fund research into AI systems that have a lower risk of accidents;  are more resilient ,  including  to hacking and adversarial   spoofing;  demonstrate  less unexpected behavior; and minimize bias. We will consider “emergent effects” that arise when two or more systems interact, as will often be the case  when introducing AI to military contexts . To foster these characteristics in  deployed systems in both military and civilian contexts , we will pioneer and share novel approaches to testing, evaluation, verification , and validation, and we will increase our focus on defensive cybersecurity of hardware and software platforms as a precondition for secure uses of AI.  
+Continuing to fund research to understand and explain AI -driven decisions and actions. We will continue funding research and development for “explainable AI” so users can understand the basis of AI outputs. This will help users understand, appropriately trust, and effectively manage AI systems.   
+Promoting transparency in AI research. We will actively and continuously engage in a n open dialogue and internationally collaborative research agenda concerning  AI ethics, resilience, robustness, reliability, and security to  reduce the chance of misperception, miscal culation, or accidents. This will promote responsible behavior.  
+Advocating for a global set of military AI guidelines. We will engage in dialogue and articulate our vision for ethical and safe military  AI use to the broadest-possible audience. To do  this, we will build stro ng channels for military -to-military dialogue as well as exchange s  among  DoD,  the  private sector, academia, allies and partners, and the global AI community. Within the Department, we will continue operating in accordance with  the law of  war,  and  we  will  demonstrate responsible use of AI in accordance with our nation’s values.
+ 16  
+
+Using AI to reduce the risk of civilian casualties and other collateral damage. We will seek opportunities to use   
+AI to enhance our implementation of the  Law of War. AI systems can  provide commanders more tools to protect non-combatants via increased situational awareness  and enhanced decision support.   
+  
+  
+  
+
+ADDRESSING KEY RESEARCH CHALLENGES IN AI: DEFENSE ADVANCED  
+
+RESEARCH PROJECTS AGENCY (DARPA)  
+
+DARPA is an agency that makes pivotal investments in breakthrough technologies for national security. Over its 60-year history, DARPA has played a leading role in the creation and advancement of AI technologies. DARPA is now funding research into AI that can explain its decision-making rationale to humans, which is critical for enabling humans to understand, appropriately trust, and effectively manage AI systems. This research is one component of a multi-year campaign called AI Next, which provides research investmen ts aimed at transforming computers from specialized tools to partners in problem-solving.
+ 17  
+
+CONCLUSION  
+
+Thoughtful, responsible, and human-centered adoption of AI in the Department of Defense has the potential to strengthen our national security and transform the speed and agility of our operations.  
+Our adversaries and competitors   are aggressively working to define the future of th ese  powerful technologies according to their interests,  values, and societal models. The ir investments threaten to erode U.S. military advantage , destabilize the free and open international order , and challenge our values and traditions with respect to human rights and individual liberties.  
+The present moment is pivotal: we must act to protect our security  and advance our competiveness, seizing the initiative to lead the world in the development and adoption of transformative defense AI solutions that are safe, ethical, and secure.  JAIC will spearhead this effort, engag ing with the best minds in government, the private sector, academia, and international community. The speed and scale of the change required are  daunting, but we must embrace change  if we are to reap the benefits of continued security and prosperity for the future.  

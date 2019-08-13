@@ -1,0 +1,404 @@
+Artificial
+Intelligence for the
+American
+People
+01 Executive Order on AI	
+02 AI for American Innovation	
+03 AI for American Industry	
+04 AI for the American Worker	
+05 AI with American Values
+	
+Overview
+The age of artificial intelligence (AI) has arrived, and is transforming everything from healthcare to transportation to manufacturing.
+
+America has long been the global leader in this new era of AI, and is poised to maintain this leadership going forward. Realizing the full potential of AI for the Nation requires the combined efforts of industry, academia, and government. The Administration has been active in developing policies and implementing strategies that accelerate AI innovation in the U.S. for the benefit of the American people. These activities align with four main pillars of emphasis: AI for American Innovation, AI for American Industry, AI for the American Worker, and AI with American Values. This AI.gov website provides a portal for exploring these activities in more depth, and serves as a resource for those who want to learn more about how to take full advantage of the opportunities of AI.
+
+“Continued American leadership in Artificial Intelligence is of paramount importance to maintaining the economic and national security of the United States.”
+– President Donald J. Trump
+
+01
+Executive Order on AI
+SHARE:  
+ 
+ 
+On February 11, 2019, President Trump announced the American AI Initiative, which is a concerted effort to promote and protect national AI technology and innovation. The Initiative implements a whole-of-government strategy in collaboration and engagement with the private sector, academia, the public, and like-minded international partners. It directs Federal agencies to pursue a multipronged approach to advance AI, including: promoting sustained AI R&D investment, enhancing access to high-quality cyberinfrastructure and data, removing regulatory barriers, ensuring that America leads in the development of technical standards for AI, providing education and training opportunities to prepare the American workforce for AI, and developing and implementing an action plan to protect our technological advantage in AI.
+
+
+Official White House Photo by Joyce N. Boghosian
+On February 11, 2019, President Trump signed the Executive Order on Maintaining American Leadership in AI.
+Op-Ed on AI Executive Order
+
+Link to Executive Order
+
+Summary of Executive Order
+
+Link to Fact Sheet
+
+White House AI Summit
+In May 2018, The White House hosted the Artificial Intelligence for American Industry Summit to discuss the promise of AI and the policies needed to realize that promise for the American people and maintain U.S. leadership in the age of AI. The summit brought together over 100 senior government officials, technical experts from top academic institutions, heads of industrial research labs, and American business leaders who are adopting AI technologies to benefit their customers, workers, and shareholders. At this summit, participants engaged in two sets of breakout sessions focused on cross-cutting issues such as AI R&D, workforce development, regulatory barriers to AI innovation, and sector-specific applications of AI.
+
+
+Credit: Erik Jacobs, White House Office of Science and Technology Policy
+Michael Kratsios, Deputy Assistant to the President for Technology Policy, delivers the keynote address in the Eisenhower Executive Office Building’s Indian Treaty Room at the Artificial Intelligence for American Industry Summit.
+Summary of the 2018 White House AI Summit
+
+02
+AI for American Innovation
+SHARE:  
+ 
+ 
+America’s decades-long leadership in AI research and development has resulted in cutting-edge, transformative technologies that are improving lives, growing innovative industries, empowering workers, and increasing national security. These successes are the result of a strong, long-term emphasis on visionary, competitive, and high-payoff fundamental research programs that advance the frontiers of AI. American R&D investments in AI are measured not only by the amount of our financial investment, but also in the quality and impact of the results.
+
+These AI investments continue to emphasize the broad spectrum of challenges in AI, including core AI research, use-inspired and applied AI R&D, computer systems research in support of AI, and cyberinfrastructure and datasets needed for AI. Cross-disciplinary AI investments focus on the wide range of applications of importance to the nation, including science, medicine, communication, manufacturing, transportation, agriculture, and security. AI investments are prioritized in agency budgets and coordinated across the Federal government to leverage the efficiencies of shared interests, while also identifying and filling gaps in our investment portfolios.
+
+Our approach strengthens and leverages the unique and vibrant American R&D ecosystem, combining the strengths of government, academia, and industry. Special emphasis is placed on innovative public-private partnerships that accelerate AI discoveries. The result is a thriving R&D enterprise that maintains American leadership in AI technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NSTC Select Committee on AI
+To improve the coordination of Federal efforts related to AI, the White House chartered a Select Committee on AI under the National Science and Technology Council. The Select Committee consists of the most senior R&D officials across the Federal government and represents a whole-of-government approach to AI R&D planning and coordination. This Committee advises the White House on interagency AI R&D priorities; considers the creation of Federal partnerships with industry and academia; establishes structures to improve government planning and coordination of AI R&D; and identifies opportunities to prioritize and support the national AI R&D ecosystem. The Select Committee also provides guidance and direction to the existing Machine Learning and AI Subcommittee, which serves as the operations and implementation arm of the committee.
+
+
+Credit: Erik Jacobs, White House Office of Science and Technology Policy
+Select Committee meeting in November 2018
+NSTC Select Committee on AI Charter
+
+Key Agencies
+Director of the Defense Advanced Research Projects Agency, Department of Defense
+LEARN MORE
+Director of the National Science Foundation
+LEARN MORE
+Director of the Intelligence Advanced Research Projects Agency, Office of the Director of National Intelligence
+LEARN MORE
+National Institute of Standards and Technology
+LEARN MORE
+United Staes Department of Agriculture
+LEARN MORE
+Undersecretary of Energy for Science, Department of Energy
+LEARN MORE
+Undersecretary of Commerce for Standards and Technology, Department of Commerce
+Undersecretary of Defense for Research and Engineering, Department of Defense
+National Security Council
+Office of Management and Budget
+Office of Science and Technology Policy
+National Institutes of Health
+National Aeronautics and Space Administation
+National Oceanic and Atmospheric Administration
+US Department of Transportation
+AI R&D Strategic Plan
+Guiding the Nation in our AI R&D investments is the National AI R&D Strategic Plan: 2019 Update, which identifies the critical areas of AI R&D that require Federal investments. Released by the White House Office of Science and Technology Policy’s National Science and Technology Council, the Plan defines several key areas of priority focus for the Federal agencies that invest in AI. These areas of strategic AI R&D focus include: continued long-term investments in AI; effective methods for human-AI collaboration; understanding and addressing the ethical, legal, and societal implications for AI; ensuring the safety and security of AI; developing shared public datasets and environments for AI training and testing; measuring and evaluating AI technologies through standards and benchmark; better understanding the National AI R&D workforce needs; and expanding public-private partnerships to accelerate AI advances.
+
+The process for creating this Plan began in August of 2018, when the Administration directed the Select Committee on AI to refresh the 2016 National AI R&D Strategic Plan to account for significant recent advancements in AI, and to ensure that Federal R&D investments remain at the forefront of science and technology. The Select Committee then issued a Request for Information (RFI) to solicit input from the public on the current AI R&D Strategic Plan, to determine ways the strategy should be revised or improved. The responses to this RFI, as well as an independent agency review, informed the 2019 update to the Plan.
+
+The National AI R&D Strategic Plan: 2019 Update defines the priorities for the overall portfolio for Federal AI R&D investments. Federal agencies take these priorities into account when developing their own budget proposals and agency plans, as appropriate to their respective agencies’ missions. This coordinated Federal strategy for AI R&D will help the United States to continue to lead the world in cutting-edge advances in AI that will grow our economy, increase our national security, and improve our quality of life.
+
+Report cover
+National AI R&D Strategic Plan: 2019 Update
+
+Computing Infrastructure for AI R&D
+While algorithms and data play strong roles in the performance of AI systems, equally important is the computing infrastructure upon which the AI system runs. Advances in AI will continue to be dependent on hardware optimized for AI algorithms, including novel designs for neuromorphic computing, hardware accelerators for machine learning, embedded systems, and parallel architecture research motivated by AI processing requirements. The American AI Initiative calls for federal agencies to allocate high-performance and cloud computing resources to AI-related applications and R&D.
+
+The United States is a world leader in the development of high-performance computing infrastructure that supports AI research. In June 2018, the U.S. Department of Energy introduced the Summit scientific supercomputer at Oak Ridge National Laboratory. Summit provides unprecedented computer power for research across a broad variety of scientific domains, including artificial intelligence, energy, and advanced materials. Summit also provides unmatched capabilities for integrating AI and scientific discovery. In May 2019, DOE announced plans to build the Frontier supercomputer, which is expected to debut in 2021 as the world’s most powerful computer that maintains U.S. leadership in high-performance computing and AI.
+
+The National Science Foundation (NSF) also invests significantly in the exploration, development, and deployment of a wide range of cyberinfrastructure technologies that can be useful for AI R&D, including next-generation supercomputers. In 2018, NSF funded the largest and most powerful supercomputer the agency has ever supported to serve the nation’s science and engineering research community. The new high-performance computing system, called Frontera, will be a system with the highest scale, throughput, and data analysis capabilities ever deployed on a university campus in the United States.
+
+The National Aeronautics and Space Administration also has a strong high-end computing program, and is augmenting their Pleiades supercomputer with new nodes specifically designed for MLAI workloads.
+
+
+Credit: Carlos Jones, Oak Ridge National Laboratory/U.S. Dept. of Energy
+Summit supercomputer at Oak Ridge National Labratory
+ 
+
+“Today’s launch of the Summit supercomputer demonstrates the strength of American leadership in scientific innovation and technology development. It’s going to have a profound impact in energy research, scientific discovery, economic competitiveness, and national security,” said Secretary Perry. “Summit will empower scientists to address a wide range of new challenges, accelerate discovery, spur innovation, and above all, benefit the American people.”
+
+Rick Perry
+
+Data Resources for AI R&D
+High quality datasets are critically important for training many types of AI systems. The Federal government facilitates AI innovation by investing in shared public datasets. The American AI Initiative calls for agencies to make Federal data, models, and computing resources more available to America’s AI R&D experts, researchers, and industries. This will be done to foster public trust and increase the value of these resources to AI R&D experts, while maintaining the safety, security, civil liberties, privacy, and confidentiality protections we all expect. These efforts will work in concert with the President’s Management Agenda and implementing the Open, Public, Electronic, and Necessary, (OPEN) Government Data Act. In March of 2018, the President’s Management Agenda laid out a new Cross-Agency Priority (CAP) goal of leveraging data as a strategic asset. This CAP goal will result in the development and implementation of the Federal Data Strategy, which defines principles, practices, and an action plan to generate a more consistent approach to the use, access, and stewardship of Federal data. In addition, the National Science Foundation is leading in the development of a cohesive, federated, national-scale approach to research data infrastructure through the Harnessing the Data Revolution Big Idea. This initiative provides a significant opportunity to transform research across all areas of science and engineering, including AI. Together, these actions will drive our top-notch AI research toward new technological breakthroughs and promote scientific discovery, economic competitiveness, and national security.
+
+R&D for AI Standards
+Standards are essential for ensuring that AI technologies meet critical objectives for functionality and interoperability. The Federal government engages in the development of technical standards and related tools in support of reliable, robust, trustworthy, secure, portable, and interoperable systems that use AI technologies. These activities ensure that technical standards for AI reflect Federal priorities for innovation, public trust, and confidence. The United States also participates in the development of international standards to promote U.S. competitiveness.
+
+The National Institute of Standards and Technology is a leader in advancing foundational research in measuring and assessing AI technologies, including the development of AI data standards and best practices, as well as AI evaluation methodologies and standard testing protocols. This initiative also calls for the National Institute of Standards and Technology (NIST) to lead the development of appropriate technical standards for reliable, robust, trustworthy, secure, portable, and interoperable AI systems.
+
+The American AI Initiative calls for NIST to lead the development of a plan for Federal engagement in the development of technical standards for AI. In May 2019, NIST issued a request for information about technical standards and related tools for AI, which will inform the development of this plan.
+
+03
+AI for American Industry
+SHARE:  
+ 
+ 
+AI innovation can be hampered or driven overseas by overly restrictive government regulations. We will create a national climate where scientists and technologists successfully develop their new AI inventions here in the United States. Under this Administration, we are removing regulatory and other barriers to the safe development and testing of AI technologies, to enable the creation of new AI-based industries and the adoption of AI by existing industries. Agencies are developing regulatory and non-regulatory approaches for innovative uses of AI while also upholding civil liberties, privacy, and American values. Examples include the Department of Transportation’s work to safely integrate driverless cars onto traditional roadways, the FDA’s approval of the first ever AI-based device for medical diagnostics, and the FAA’s work to speed the integration of unmanned aerial systems into the Nation’s airspace. Additionally, the U.S. Patent and Trademark Office is exploring intellectual property policy considerations of AI.
+
+The Federal government welcomes additional ideas from the American public on barriers that can be removed to speed AI innovation while also protecting privacy, civil liberties, and the safety of the American public.
+
+Summary Report from White House AI Summit
+
+Transportation
+Healthcare
+Manufacturing
+Financial Services
+Agriculture
+Weather Forecasting
+National Security & Defense
+Transportation
+Autonomous systems, such as unmanned aircraft systems (drones) and self-driving vehicles, offer tremendous benefits to our economy and society. They promise to transform the delivery of household goods, provide mobility options for senior citizens and Americans with disabilities, improve the safety of dangerous occupations, and expand access to life-saving medical supplies. In partnership with State and local governments, the Trump Administration, through the Department of Transportation and NASA, is working to enable the safe operation of these systems on our roadways and in our airspace.
+
+“It shall be the policy of the United States to promote the safe operation of unmanned aircraft systems (UAS) and enable the development of UAS technologies for use in agriculture, commerce, emergency management, human transportation, and other sectors.”
+
+President Donald J. Trump
+
+Unmanned Aircraft Systems
+On October 25, 2017, President Trump signed a Presidential Memorandum directing Secretary of Transportation Elaine Chao to establish an unmanned aircraft system (UAS) integration pilot program (IPP), which the President signed into law with the 2018 Federal Aviation Administration (FAA) Reauthorization Act. Two weeks later, Secretary Chao announced the creation of the UAS IPP to develop and safely test the further integration of UAS in a select number of State, local, and tribal jurisdictions. Over the following months, the Federal Aviation Administration (FAA) heard from more than 2,500 interested parties, with more than 300 state, local, and tribal governments interested in taking part. On May 10, 2018, Secretary Chao announced the selection of ten program awardees, spanning the continental United States and Alaska. These awardees are conducting a range of novel and innovative UAS operations, including pairing drones with 5G test networks, eradicating pestilent mosquito populations, and delivering life-saving medical equipment in emergency situations. Data gathered from these pilot projects will form the basis of a new regulatory framework.
+
+In January 2019, FAA announced proposed new rules to allow drones to fly at night and over people without waivers under certain conditions and to further integrate drones safely into the national airspace system. FAA also announced the Unmanned Aircraft System Safe and Secure Advanced Notice of Proposed Rulemaking. This proposal identifies major drone safety and security issues that may pose a threat to other aircraft, to people on the ground, or to national security. It is soliciting recommendations to reduce these risks as drones are integrated into our national airspace.
+
+The FAA has established the UAS Data Exchange, a collaborative approach to facilitate the sharing of airspace data between government and industry, which has already led to shortened processing times for airspace authorizations for UAS operators. In coordination with the FAA, NASA continues development of a UAS Traffic Management (UTM) system, and in May 2018 released Version 1.0 of the UTM Concept of Operations.
+
+
+Official White House Photo by Joyce N. Boghosian
+President Donald J. Trump inspecting a commercial drone at the American Leadership in Emerging Technologies summit at The White House on June 22, 2017.
+ 
+
+
+Credit: David Samson | The Forum
+Secretary of Transportation Elaine L. Chao speaking at the Drone Focus conference in Fargo, ND.
+FAA Recent UAS Initiatives
+
+“UAS present opportunities to enhance the safety of the American public, increase the efficiency and productivity of American industry, and create tens of thousands of new American jobs.”
+
+President Donald J. Trump
+
+Autonomous Vehicles
+The development and deployment of automated driving systems (ADS), commonly referred to as automated or self-driving vehicles, has the potential to reduce the number and severity of serious automobile crashes – over 90 percent of which are due to human error according to the National Highway Traffic Safety Administration (NHTSA) – preventing injuries and saving lives. The market for automated vehicles is anticipated to be over $40 billion in 2025 and more than $75 billion in 2035. In addition, fully automated vehicles have the potential to present new transportation options for older Americans and those with disabilities, increasing their connectivity and independence.
+
+The Department of Transportation (DOT) is taking active steps to develop guidance for how best to integrate ADS into our transportation system. In October 2018, DOT released new guidance for automated vehicles, entitled “Preparing for the Future of Transportation: Automated Vehicles 3.0”. This report encourages the safe integration of automated vehicles into the multimodal surface transportation system. This report follows a previous DOT report from September 2017, Automated Driving Systems: A Vision for Safety 2.0, which was an update to the 2016 Federal Automated Vehicles Policy and an important step in the development and deployment of automated driving systems (ADS) in the United States. The new guidance will ensure safety in automated vehicle technologies without hampering innovation, and provide for a consistent ADS regulatory framework.
+
+
+Max Ortiz, Associated Press
+Secretary of Transportation Elaine L. Chao inspecting an automated driving system in Ann Arbor, Michigan.
+A Vision for Safety 2.0: Automated Driving Systems
+
+“The safe deployment of automated vehicle technologies means we can look forward to a future with fewer traffic fatalities and increased mobility for all Americans.”
+Secretary of Transportation Elaine L. Chao
+
+Preparing for the Future of Transportation: Automated Vehicles 3.0
+
+Healthcare
+As new diseases emerge and old ones evolve, the Trump Administration is actively investing in ways to advance cutting-edge medical research. Sepsis, a condition that claims 250,000 American lives each year is a national health security threat. The Department of Health and Human Services (HHS) is promoting medical innovation through the Division of Research, Innovation, and Ventures (DRIVe). By offering partnerships with public and private institutions, the HHS seeks to provide innovative solutions to sepsis by introducing machine learning algorithms to treat the disease. HHS also worked on a Health Tech Sprint to show how AI can be applied to Federal data to create products for healthcare applications.
+
+The Centers for Medicare & Medicaid Services’ (CMS’) Center for Medicare and Medicaid Innovation (Innovation Center) has launched the Artificial Intelligence (AI) Health Outcomes Challenge, in collaboration with the American Academy of Family Physicians and the Laura and John Arnold Foundation. The CMS AI Health Outcomes Challenge will distribute up to $1.65 million to encourage further progress in AI for health and health care and to accelerate development of real-world applications for this technology. Participants will analyze large health care data sets and develop proposals, AI driven models, and frameworks that accurately predict unplanned hospital and SNF admissions and adverse events.
+
+In an effort to remove barriers to AI innovation, in April 2018, the Food and Drug Administration (FDA) allowed, for the first time, the marketing of artificial intelligence technology that can detect eye problems caused by diabetes. The FDA also, in May 2018, permitted marketing of AI-based software that can help healthcare providers detect wrist fractures more quickly. In addition, the FDA along with the Centers for Disease Control and Prevention (CDC) partnered to advance research in machine learning and natural language processing by creating free tools that will improve the collection of clinical data.
+
+The National Institutes of Health is exploring many opportunities for AI to accelerate medical advances in biomedical research. NIH has large data sets resulting from projects such as the NIH Human Microbiome Project and the All of Us Research Program. These data sets provide great opportunity for AI to foster discovery. In January 2019, reports on work funded by NIH, researchers were able to use AI to catch irregular heartbeats, indicating that AI can be used to improve the accuracy and efficiency of EKG readings. NIH has recently launched a working group on AI to explore ways to make the best use of existing data, and harness the potential of AI to advance biomedical research and the practice of medicine.
+
+
+Administrator Seema Verma
+?
+@SeemaCMS
+ We’re live at @CWClub discussing the future of @MedicareGov and how we are using innovation to put #PatientsOverPaperwork! Watch LIVE here: https://www.youtube.com/watch?v=9uKSZKKHWeY …
+
+ YouTube ?@YouTube
+ 
+10
+8:10 PM - Jul 25, 2018
+Twitter Ads info and privacy
+See Administrator Seema Verma's other Tweets
+Report coverDeveloping Software Precertification Program: A Working Model (Version 2.0 – June 2018)
+“The Software Precertification Program is envisioned as a voluntary pathway that embodies a regulatory model more tailored than the current regulatory paradigm to assess the safety and effectiveness of software technologies without inhibiting patient access to these technologies.”
+
+Manufacturing
+State-of-the-art advances in manufacturing help our economy and empower our workforce. In July of 2018, the National Counterintelligence and Security Center (NCSC) identified manufacturing areas such as chemical manufacturing, advanced robotics and artificial intelligence, aircraft parts, integrated circuits, space and exploration technology, etc., as areas under threat from foreign espionage. In the face of intense global competition, President Trump unveiled a National Strategic Plan on Advanced Manufacturing in October 2018 that focuses on defending the economy, expanding manufacturing employment, and ensuring a strong manufacturing and defense industrial base and a resilient supply chain.
+
+The National Institute of Standards and Technology (NIST) is working to provide the tools to move our industries into the smart manufacturing generation. By developing automated, distributed sensing, and autonomous control systems, the Trump Administration wants to increase the operational efficiency of factories across the United States. In April of 2018, and for the first time ever, NIST published guidelines and best practices for introducing wireless technology into smart manufacturing. Our leadership in modern manufacturing comes with economic threats such as those related to cybersecurity.
+
+“Optimism among American manufacturers has hit all-time highs as American businesses across the country have paid bonuses, increased wages, and boosted contributions to employee retirement plans.”
+
+– President Donald Trump (07/17/18)
+
+ORNL’s MDF Industry Collaboration Program
+This program connects industry partners with national laboratory and academic experts to test and implement state-of-the-art technologies for manufacturing processes.
+
+High Performance Computing for Manufacturing (HPC4Mfg) Program
+The DOE’s Lawrence Livermore National Laboratory (LLNL) is home to the High Performance Computing for Manufacturing (HPC4Mfg) Program. The goal of this program is to bring industry manufacturers to use high-performance computing to develop simulations that will advance manufacturing technology.
+
+Financial Services
+Under the leadership of President Trump, the United States’ economy is growing at a fast pace. The Department of the Treasury is pursuing policies that promote the adoption of innovating tools such as AI and machine learning while removing unnecessary regulatory barriers. These new tools will empower the American people by helping them make more informed decisions about their short-term and long-term financial goals. The U.S. Securities and Exchange Commission (SEC) is actively implementing machine learning algorithms to monitor and detect potential investment market misconduct.
+
+“Financial institutions have been improving their ability to monitor transactions and conduct link analysis with new technologies that rely on artificial intelligence and machine learning. Being proactive on this front is more important than ever in your sector given the sophisticated ways actors use to move money and goods. We applaud efforts to use new technologies to identify and build out networks and make better decisions about who you should and should not be doing business with.”
+
+– U.S. Department of the Treasury Under Secretary Sigal Mandelker (02/13/18)
+
+Artificial Intelligence. Emerging Opportunities, Challenges, and Implications
+
+This Report to the Committee on Science, Space, and Technology, House of Representatives highlights, among other items, the benefits and challenges of deploying artificial intelligence technologies to financial services.
+
+Agriculture
+Confronting one of the biggest challenges facing agriculture today—feeding an additional 2 billion people by 2050—the U.S. Department of Agriculture (USDA) is positioning farmers, scientists, educators, and the American public to benefit from artificial intelligence, providing economic opportunitay through innovation, helping rural America to thrive, and promoting more efficient and profitable agricultural production.
+
+NIFA has launched a data science initiative, Food and Agriculture Cyberinformatics and Tools, to accelerate and expand on a diverse portfolio of AI-related programs that represent a multitude of uses in agricultural production, sensor development, bioinformatics, ecosystem management, rural community support, and workforce development through education and training at all levels. This work includes robotic solutions that utilize AI technologies to assist in pollination, weeding, pesticide applications, and fruit harvesting; AI algorithms that assist in identifying plant, animal and tree species that contribute to pest control and ecosystem management; and adaptive groundwater and watershed models to maintain resilience of agricultural systems. NIFA’s investments contribute to a wide breadth of AI-relevant research including big data, machine learning, autonomous systems, computer vision and intelligent decision support systems, as well as the socioeconomic and workforce considerations with rapidly increasing role of AI in U.S. agriculture.
+
+ARS is collaborating with industry to advance the role of AI in monitoring livestock, using robots to sort harvests, analyzing irrigation systems, and utilizing UAV technology to analyze crop health and efficiently apply pesticides. Their programs include the use of automated calculations to analyze crop foliage composition and then guide the application of pesticides; self-propelled apple sorting machines that use algorithms to quality sort the fruit; and aerial monitoring of fungi levels on corn and other crops using computer vision and deep learning.
+
+ERS is conducting research and development to use machine learning and AI to create better crop yield models based on weather data and analysis.
+
+USDA’s work in AI and data science brings revolutionary technology to agriculture with the potential to transform our ability to bring high-quality food to America’s dinner table.
+
+Weather Forecasting
+The National Oceanic and Atmospheric Administration (NOAA) is using AI to better understand and predict the dynamic environment we live in. The American AI Initiative prioritizes research and development investments, along with data and computational infrastructure, that will accelerate the ability of researchers to create AI that can assimilate the massive amounts of big data from our environmental satellites into our weather models to improve predictions of hurricanes and severe storms. AI capabilities, including sensors on aerial and underwater drones led to record setting accuracy in forecasts for Hurricane Florence that led to over 200,000 lifesaving evacuations 4 days before the storm made landfall.
+
+Other applications of AI by NOAA include improving nautical charts to ensure safe and efficient maritime commerce, surveying fish stocks to effectively manage our nation’s $208B/year recreational and commercial fishing industries, monitoring and conserving endangered species, and exploring, mapping, and monitoring the world’s ocean conditions and coasts for critical national security and economic applications. NOAA also uses onboard AI and machine learning techniques in NOAA satellites help protect the environmental spacecraft during radiation events that could corrupt satellite computers. Automated software checks built into the onboard system can detect charged particles passing through onboard electronics, and then initiate contingency procedures to clear error conditions and help return satellites to full functionality.
+
+“NOAA, in cooperation with academia and the private sector, is riding the wave of exponential improvements in Artificial Intelligence to dramatically advance our mission to protect life and property and empower the nation’s economy”
+NOAA Assistant Secretary of Commerce for Oceans and Atmosphere Rear Adm. Tim Gallaudet, USN (retired)
+
+National Security & Defense
+On December 18, 2017, President Trump signed a new National Security Strategy that calls on America to lead in research, technology, invention, and innovation in emerging technologies, including artificial intelligence. The Trump Administration’s commitment to AI is exemplified in the National Defense Strategy, where the Administration states its intent to invest broadly in military application of AI and machine learning alongside other emerging technologies. The Administration’s commitment to advanced AI R&D is evident in the FY 2020 Administration Research and Development Budget Priorities memo, which calls for investment in AI, quantum information science, and strategic computing as critical components of our national security.
+
+In June 2018, the DoD established the Joint Artificial Intelligence Center (JAIC) to serve as the focal point in the use of AI for key defense missions. JAIC will accelerate the delivery of AI-enabled capabilities, scale the DoD-wide impact of AI, and synchronize DoD’s AI activities. JAIC further aims to spur momentum in the use of AI for DoD by focusing on a set of challenging use cases that can benefit from AI, including perception, predictive maintenance, humanitarian assistance and disaster relief, and cyber sensemaking. The intent is to both deliver new AI-enabled capabilities to DoD end users, as well as to incrementally develop a common foundation of shared data, reusable tools, frameworks, libraries, and standards that are essential for scaling the impact of AI across DoD.
+
+In February 2019, the Department of Defense released its DoD AI Strategy, which focuses efforts on harnessing AI to advance our Nation’s security and prosperity. The DoD AI Strategy defines the JAIC as the focal point of DoD’s AI efforts, and outlines on the following key strategic aims: delivering AI-enabled capabilities for key missions; partnering with leading private sector technology companies, academia, and global allies; cultivating a leading AI workforce; and leading in military ethics and AI safety.
+
+“The impact of AI will extend across the entire Department, spanning from operations and training to recruiting and healthcare. The speed and agility with which we will deliver AI capabilities to the warfighter has the potential to change the character of warfare. We must accelerate the adoption of AI-enabled capabilities to strengthen our military, improve effectiveness and efficiency, and enhance the security of our nation.”
+Mr. Dana Deasy, DOD CIO
+
+04
+AI for the American Worker
+SHARE:  
+ 
+ 
+ 
+The American worker is a vital national asset, and advances in technology are changing the American workforce. Artificial intelligence is allowing American companies to focus resources on higher value work while enabling American workers to accomplish tasks more safely, effectively, and efficiently. The Nation also needs highly-skilled workers in industry and academia who can contribute to the R&D advances that create the AI of the future. The American AI Initiative calls for agencies to prioritize fellowship and training programs to help American workers gain AI-relevant skills through apprenticeships, skills programs, fellowships, and education in computer science and other growing Science, Technology, Engineering, and Math (STEM) fields. The Initiative also leverages the extensive set of actions already underway to provide education and training opportunities for America’s workers.
+
+Through an executive order establishing the National Council for the American Worker, President Trump has charged companies and trade groups across the country to sign a pledge committing to expand education, training, and reskilling opportunities for American workers — as of February 2019 over 200 companies have pledged to create over six and a half million such opportunities. The Trump administration has also led several initiatives recognizing apprenticeships, STEM education, and lifelong learning as essential to America’s future workforce strategy. Created by executive order, the Task Force on Apprenticeship Expansion brought private industry and government together to identify opportunities that would expand industry-recognized apprenticeships—the Task Force made 26 recommendations to the President for consideration. Additionally, through Presidential Memorandum to the Secretary of Education, President Trump has identified STEM education as an Administration priority, establishing a goal of no less than $200 million in grant funding per year to the promotion of high-quality Computer Science and STEM education.
+
+To ensure the Nation also has highly-skilled experts who can advance the AI technologies of the future, the Select Committee on AI has prioritized funding to train the next generation of American AI researchers.  The Federal R&D agencies have a number of fellowships to support graduate and postdoctoral studies in AI.
+
+As automation and AI become more prevalent, allowing Americans to work more efficiently and safely, the American workforce and industry must embrace lifelong learning as the way of the future. The Trump administration is committed to smart workforce initiatives that protect the American worker as a vital national asset while promoting the emerging technologies of tomorrow.
+
+American Workforce
+National Council for the American Worker
+As advances in technology, automation, and AI change the national economy, so too must the country’s education and job training programs change to prepare Americans for the new economy and the emerging industries of the future. President Trump’s July 2018 executive order established the President’s National Council for the American Worker. This Council recognizes skilled American workers as our country’s most valuable resource and works to raise awareness of urgent workforce issues and develop a national strategy for empowering American workers with affordable education and skills-based training for the jobs of today and of the future.
+
+American Workforce Policy Advisory Board
+On March 6, 2019, Commerce Secretary Wilbur Ross and President Trump’s Advisor Ivanka Trump officially launched the creation of the American Workforce Policy Advisory Board. This board will work together with the National Council for the American Worker to create a national strategy ensuring that all Americans have the skills and opportunity to secure good paying jobs and successfully navigate technological disruptions and the rapidly changing nature of work.
+
+
+Official White House Photo by Joyce N. Boghosian
+Meeting of the Council for the American Worker
+Pledge to America’s Workers
+
+Link to Executive Order
+
+Fact sheet on workforce development
+
+Women’s Global Development and Prosperity Initiative
+
+Apprenticeships
+On June 15, 2017, President Trump signed an executive order, Expanding Apprenticeships in America, which established the Task Force on Apprenticeship Expansion. This task force, led by Secretary of Labor Alexander Acosta, worked throughout the year “to identify strategies and proposals to promote apprenticeships, especially in sectors where apprenticeship programs are insufficient.” Through four subcommittees ranging from education and credentialing to regulatory strategies, the Task Force presented its final report to President Trump on May 10, 2018 with 26 recommendations to promote apprenticeships for American workers.
+
+
+Official White House Photo by Shealah Craighead
+Task Force on Apprenticeship Expansion
+Link to Executive Order
+
+Task Force Summary
+
+Task Force Final Report
+
+STEM Education
+In December 2018, the National Science and Technology Council’s Committee on STEM Education (CoSTEM) released the Federal 5-Year STEM Education Strategic Plan, which outlines the goals for American STEM education. These goals include building a strong foundation of STEM literacy, increasing diversity in STEM careers, and preparing the STEM workforce of the future. In September 2017, President Trump signed a Presidential Memorandum for the Secretary of Education, which emphasizes STEM education as a key Administration priority, establishing a goal of devoting at least $200 million in grant funds per year to the promotion of high-quality Computer Science and STEM education. Addressing both shortages in STEM teachers at all levels and expanding access to Computer Science and STEM education, the NSTC CoSTEM is the Administration’s vehicle to execute policy on this central element of American leadership in AI.
+
+
+Photo courtesy of Steven G. Zylstra, Arizona Technology Council
+Advisor to the President Ivanka Trump and Deputy Assistant to the President for Technology Policy Michael Kratsios discuss Administration efforts at the State-Federal STEM Education Summit on June 28, 2018
+5-Year STEM Education Strategic Plan
+
+Summary from 2018 STEM Education Summit
+
+R&D Workforce Training
+With the Executive Order on AI, President Trump emphasized the importance of training the next generation of AI researchers.  Federal departments and agencies that invest in AI R&D have defined AI as a priority area within Federal fellowship, training, and service programs.  Opportunities are provided at all levels of advanced training, including for undergraduate and graduate students, postdoctoral researchers, and early career academic AI researchers.
+
+Fellowship, training, and service programs:
+
+NASA: STEM Engagement
+
+NSF: The National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+
+NIST:  NRC Postdoctoral Research Associateships Program
+
+NIST: Graduate Student Measurement Science and Engineering (GMSE) Fellowship Program
+
+NIST: Professional Research Experience Program (PREP)
+
+DoD: National Defense Science and Engineering Graduate Fellowship
+
+DOE: Computational Science Graduate Fellowship
+
+State: Jefferson Science Fellows program
+
+USDA/NIFA:  Education and Workforce Development program
+
+USDA/NIFA:  National Needs Graduate and Postgraduate Fellowship Grants Program
+
+USDA/NIFA: Higher Education Multicultural Scholars Program
+
+Vocational Training
+The National Science Foundation leads the way on Advanced Technological Education (ATE), publishing a program solicitation to award grants totaling $66 million during FY19. The ATE program partners with academic institutions and industry to improve the education of technicians vital to our nation’s economy. Additionally, NSF’s “Big Idea” on “Future of Work at the Human-Technology Frontier” is informing AI-related elements of NSF’s long-term research agenda.
+
+CEA Report on Reskilling
+
+05
+AI with American Values
+SHARE:  
+ 
+ 
+The United States has long been a champion and defender of the core values of freedom, guarantees of human rights, the rule of law, stability in our institutions, rights to privacy, respect for intellectual property, and opportunities to all to pursue their dreams. The AI technologies we develop must also reflect these fundamental American values and our devotion to helping people. Our goal is to ensure that AI technologies are understandable, trustworthy, robust, and safe. In addition, the broader impacts of AI on society must be considered, including implications for the workforce and assurances that AI will be developed responsibly. The United States is actively addressing these challenges through R&D programs and engagement with the broad stakeholder communities, including international discussions on AI development. As part of the American AI Initiative, Federal agencies will foster public trust in AI systems by establishing guidance for AI development and use across different types of technology and industrial sectors. This guidance will help Federal regulatory agencies develop and maintain approaches for the safe and trustworthy creation and adoption of new AI technologies.
+
+Understandable and trustworthy AI
+As new AI technologies are created, we must also increase our understanding of how AI systems derive solutions, and why they make the decisions they make. An important R&D emphasis is on providing AI with explainability mechanisms that help human users understand reasons for AI outputs. DARPA’s Explainable AI (XAI) program aims to create machine learning techniques that produce more explainable solutions while maintaining high performance and appropriate levels of trust in the system. NSF’s Program on Fairness in Artificial Intelligence in Collaboration with Amazon will fund research on fairness in AI, with the goal of contributing to trustworthy AI systems that are readily accepted and deployed to tackle grand challenges facing society.
+
+Robust and safe AI
+The complexity of many AI systems creates important safety and security challenges that must be addressed to ensure that these systems are trustworthy. In particular, AI systems have some inherent cybersecurity risks because of the characteristics of how the technology is designed. R&D investments such as DARPA’s AI Next Campaign will create solutions for countering adversarial attacks on AI technologies, such as those that attempt to contaminate training data, modify algorithms, create adversarial inputs, or exploit flaws in AI system goals. This research is expected to lead to more secure, robust, and safe AI systems that are reliable and trustworthy.
+
+Workforce impacts
+Rapid progress in the development of AI technologies has many potential benefits, including the creation of new industries and occupations, increased opportunities for innovation, and increased productivity. However, these technologies are changing the nature of work, and have caused some concerns about the possibility of lost jobs, or the mismatch between available occupations and the skills of the workforce. Our strategy for AI and the American Worker provides educational and training opportunities that help the workforce thrive in the new economy. Beyond the immediate educational need, however, is the need to look forward to better understand the changing landscape of jobs and work. NSF is responding to this need by focusing R&D on convergent research on The Future of Work at the Human-Technology Frontier. This research will help us better understand the human-technology partnership and the emerging socio-technological landscape, create new technologies to augment human performance, and foster livelong and pervasive learning with technology.
+
+International Leadership on AI
+The Trump Administration is committed to promoting an international environment that supports AI R&D and opens markets for American AI industries while also ensuring that the technology is developed in a manner consistent with our Nation’s values and interests. The United States supports international AI collaborations and partnerships that are grounded in evidence-based approaches, analytical research, and multistakeholder engagements that bring different perspectives together.
+
+The United States is leading in a number of international activities that promote trust in and adoption of AI technologies.
+
+In May 2019, the United States joined with other OECD countries to commit to common AI principles reflecting our shared values and priorities. The U.S. worked closely with the OECD countries throughout the development of the Recommendation on AI, which establishes principles for the innovative and trustworthy development and application of AI. This represents the first time that the United States and like-minded democracies have committed to common AI principles. These principles reflect many of the priorities championed by the American AI Initiative – priorities like removing barriers to innovation and discovery, prioritizing long-term R&D, building the AI workforce, and fostering public trust.
+
+In June 2019, the White House Office of Science and Technology Policy (OSTP) led the U.S. delegation to the G20 Digital Ministerial, where the G20 nations agreed to the G20 AI Principles, which are drawn from the OECD Recommendation on AI.
+
+In 2018, OSTP also led the U.S. delegation to the 2018 G7 Innovation Ministerial, which resulted in a joint Statement on Artificial Intelligence, recognizing “the interconnected relationship between supporting economic growth from AI innovation; increasing trust in and adoption of AI; and promoting inclusivity in AI development and deployment."
+
+In 2017, OSTP also led the US delegation to the G7 “ICT and Industry Ministerial”, which resulted in an outcome document on AI that recognizes that “the rapid advancement of AI technologies has the potential to bring immense benefits to our economies and societies”. It further acknowledges “that advancing artificial intelligence technologies is not only a matter of overcoming technical challenges. It is also a matter of understanding the broader potential effects of these technologies on society and our economies and of ensuring that we advance these technologies with a human-centric approach in harmony with our laws, our policies and our values.”
+
+
+Deputy Assistant to the President Michael Kratsios announces U.S. support for OECD Recommendation on AI at OECD Forum in May 2019
+“For the first time in history, America and likeminded democracies of the world will commit to common AI principles reflecting our shared values and priorities. These principles send a strong message: The OECD countries stand together in unleashing AI innovation, understanding that it is an essential tool to drive economic growth, empower workers, and lift up quality of life for all.”
+Michael Kratsios, Deputy Assistant to the President for Technology Policy
+
+U.S. Remarks on OECD AI Principles
+
+OECD AI Principles
+
+2018 G7 Innovation Ministerial AI Statement
+
+2017 ICT and Industry Ministerial

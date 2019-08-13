@@ -1,0 +1,267 @@
+  
+
+  
+SUMMARY OF THE 2018 WHITE HOUSE SUMMIT ON  
+ARTIFICIAL INTELLIGENCE  
+FOR AMERICAN INDUSTRY  
+
+  
+
+  
+
+Product of  
+THE WHITE HOUSE  
+OFFICE OF SCIENCE AND TECHNOLOGY POLICY  
+  
+MAY 10, 2018 2  
+
+Background  
+
+Artificial intelligence (AI) has tremendous potential to benefit the American people, and has already demonstrated immense value in enhancing our national security and growing our economy.    
+AI is quickly transforming American life and American business, im proving how we diagnose and treat illnesses, grow our food, manufacture and deliver new products, manage our finances, power our homes, and travel from point A to point B.  
+On May 10, 2018,  the White House hosted the Artificial Intelligence for American Industry summit, to discuss the promise of AI and the policies we will need to realize that promise for the American people and maintain U.S. leadership in the age of artificial intelligence.   
+“Artificial intelligence holds tremendous potential as a tool to empower the American worker, drive growth in American industry, and improve the lives of the American people. 
+Our free market approach to scientific discovery harnesses the combined strength s of government, industry, and academia, and uniquely positions us to leverage this technology for the betterment of our great nation.”  
+    - Michael Kratsios, Deputy Assistant to the President for Technology Policy   
+The summit brought together over 100 senio r government officials, technical experts from top academic institutions, heads of industrial research labs, and American business leaders who are adopting 
+AI technologies to benefit their customers, workers, and shareholders.   
+Summit attendees had the oppo rtunity to participate in two sets of breakout sessions, focused on cross-cutting issues such as AI research & development (R&D), workforce development, regulatory barriers to AI innovation, and sector -specific applications of AI.  
+Industry sectors represented at the summit included food and agriculture, energy and manufacturing, financial services, healthcare, and transportation and logistics. During the breakouts, Federal participants had the opportunity to hear firsthand about the latest technological breakthroughs and innovative applications of AI across these sectors.  
+
+In addition to senior staff from the White House, Federal participants included senior officials from the  
+
+National Science Foundation, the Office of the Director of National Intelligence, a nd the Departments of  Agriculture, Commerce, Defense, Energy, Health & Human Services, Labor,  Transportation, and   
+
+Treasury.   
+
+The breadth of representation from senior officials across the Federal Government speaks to the critical nature of this topic and highlights the commitment of the Trump Administration to leverage AI technologies across agency missions to improve the lives of Americans and enable American industry to continue to lead the world.  
+
+As the White House continues to designate AI as an Adminis tration R&D priority, we look forward to continued engagement with our agency partners, the private sector, and academia to inform our policies in supporting continued American technological leadership and progress for the American people. 
+ 3  
+
+Key Takeaways  
+
+Key takeaways from breakout discussions included:  
+•   Supporting the national AI R&D ecosystem. America is blessed with a unique R&D ecosystem that taps into the limitless bounds of American ingenuity. Attendees discussed our free market approach to scientific discovery that harnesses the combined strengths of government, industry, and academia and examined new ways to form stronger public-private partnerships to accelerate AI R&D.  
+•   Developing the American workforce to take full advantage of the benefits of AI.  AI and related technologies are creating new types of jobs and demand for new technical skills across industries. At the same time, many existing occupations will significantly change or become obsolete. Attendees discussed efforts to prepare America for th e jobs of the future, from a renewed focus on STEM education throughout childhood and beyond, to technical apprenticeships, reskilling, and lifelong learning programs to better match America’s skills with the needs of industry.  
+•   Removing barriers to AI innovation in the United States. Overly burdensome regulations do not stop innovation – they just move it overseas. Participants in this session addressed the importance of maintaining American leadership in AI and emerging technologies, and promoting 
+AI R&D collaboration among America’s allies. Participants also raised the need to promote awareness of AI so that the public can better understand how these technologies work and how they can benefit our daily lives.   
+ •   Enabling high-impact, sector-specific applications of AI.  Finally, attendees organized into industry-specific sessions to share the novel ways industry leaders are using AI technologies to empower the American workforce, grow their businesses, and better serve their customers. 
+ 4 “We  stand at the birth of a new millennium, ready to unlock the mysteries   of space, to free the Earth from the miseries of disease, and to harness the energies, industries and technologies of tomorrow.”  
+- President Donald J. Trump 5  
+
+ARTIFICIAL INTELLIGENCE FOR THE AMERICAN  PEOPLE “We’re on the verge of new technological revolutions that could improve virtually every aspect of our lives, create vast new wealth for American workers and families, and open up bold, new frontiers in science, medicine, and communicat ion.”    – President Donald J. Trump  
+PRIORITIZING FUNDING FOR ARTIFICIAL INTELLIGENCE (AI) RESEARCH 
+AND DEVELOPMENT (R&D): The Trump Administration has prioritized funding for fundamental AI research and computing infrastructure, machine learning, and autonomous systems.  
+ • The Federal Government’s investment in unclassified R&D for AI and related technologies has grown by over 40% since  2015, in addition to substantial classified investments across the defense and intelligence communities. 
+ • In the annual guidance  to heads of executive departments and agencies, Office of Management and Budget (OMB) and the White House Office Science and Technology Policy (OSTP) directed agencies to focus on emerging techn ologies including machine learning and autonomous systems. 
+ • President Trump’s FY2019 Budget Request was the first in history to designate artificial intelligence and autonomous and unmanned systems as Administration R&D priorities. 
+
+REMOVING BARRIERS TO AI INNOVATION: The Trump Administration is enabling the creation of new American industries by removing regulatory barriers to the deployment of AI-powered technologies.  
+ • Last September, the Department of Transportation released an update to the 2016 Federal Automated Vehicles Policy, providing non- regulatory guidance to automated vehicle developers to enable the safe integration of driverless cars onto American roadways. 
+ • In October, President Trump signed a Presidential Memorandum  to permit States and localities to conduct innovative commercial and public drone operations currently prohibited under FAA regulations. 
+ • Last month, the FDA approved  the first ever AI -based device for medical diagnostics to detect diabetic retinopathy, the leading cause of blindness among working -age Americans. 
+
+TRAINING THE FUTURE AMERICAN WORKFORCE: President Trump has taken Executive action to give the American worker the skills to succeed in the 21st century economy.  
+ • Last June, President Trump signed an Executive Order   establishing industry -recognized apprenticeships and creating a cabinet -level Task Force on Apprenticeship Expansion. 
+ • In September, President Trump signed a Presidential Memorandum   prioritizing high -quality 
+Science, Technology, Engineering, and Math (STEM) education, with a particular focus on computer science education, and committing $200 million in grant funds th at were matched by a private industry commitment of $300 million.
+ 6  
+
+ACHIEVING STRATEGIC MILITARY ADVANTAGE: The Trump Administration’s National Security Strat egy recognizes the need to lead in artificial intelligence, and the Department of Defense is investing accordingly.  
+ •   President Trump’s National Security Strategy  was the first in history to specifically call out the importance of AI for the future of the American military.   
+ •   The National Defense Strategy  committed to investing broadly in military applications of autonomy, AI, and machine learning.   
+
+LEVERAGING AI FOR GOVERNMENT SERVICES: Executive departments and agencies are applying AI to improve the provision of government services to the American people.  
+ •   The President’s Management Agenda  calls for using automation software to improve efficiency of government services and maximizing Federal data sharing  with the American public, which will support non-Federal AI research applications.  
+ •   The General Services Administration is conducting  pilot programs  that leverage AI, including a tool to predict regulatory compliance that is scheduled for production in cloud.gov this year.   
+
+LEADING INTERNATIONAL AI NEGOTIATIONS: White House OSTP led U.S. 
+delegations to the 2017 and 2018 G7 Innovation and Technology Ministerials, and is working with our allies to recognize the potential benefits of AI and promote AI R&D.  
+ •   In March, OSTP negotia ted the  2018 G7 Innovation Ministers’ Statement on Artificial Intelligence , following an AI outcome document  from the 2017 G7 innovation ministerial, which recognizes the importance of AI innovation for economic growth and supports effor ts to promote trust in and adoption of AI technologies.  
+ •   The Trump Administration is also pursuing international AI R&D collaboration through agreements such as the first -ever  
+
+Science and Technology (S&T) agreement between the United  
+
+States and the United Kingdom   and the March  Joint Statement between the United States  and  
+
+France on S&T cooperation .  
+ 7  
+
+Select Committee on Artificial Intelligence  
+
+AI an R&D Priority for Trump Administration •   In his FY 2019 Budget Request to Congress, President Trump was the first president in history to specifically call out artificial intelligence as an Administration R&D priority.   
+•   As Federal Departments and Agencies spend billions of dollars annually to further research and develop AI and related technologies, greater return on investment will require greater Federal coordination.  
+
+Establishment of a Select Committee on AI •   In order to improve the coordination of Federal efforts related to AI and ensure continued U.S.  
+leadership in AI, today The White House chartered a Select Committee on Artificial Intelligence (“Select Committee”) under the National Science and Technology Council.   
+•   The membership of the Select Committee is comprised of the  most senior R&D officials in the  
+Federal Government.  
+•   The Select Committee will:  
+o  advise The White House on interagency AI R&D priorities; o  consider the creation of Federal partnerships with industry and academia; o  establish structures to improve government planning and coordination of AI R&D; and o  identify opportunities to leverage Federal data and computational resources to suppor t our national AI R&D ecosy stem.  
+•   The Select Committee will also provide guidance and direction to the existing ML/AI subcommittee, which will continue to serve as community of practice for Federal AI researchers.  
+
+Select Committee Membership •   The Select Committee will be chaired by  The White House Office of Science and Technology  
+Policy (OSTP), the National Science Foundation (NSF), and the Defense Advanced Research Projects Agency (DARPA).   
+•   Select Committee membership will include the most senior R&D officials of the Federal Government, including the Undersecretary of Commerce for Standards and Technology, Undersecretary of Defense for Research and Engineering, the Undersecretary of Energy for Science, the Director of NSF, and the Directors of DARPA and IARPA.  
+•   The Select Committee will also include representatives from the National Security Council, the  
+Office of the Federal Chief Information Officer, the Office of Management and Budget, and 
+OSTP.  
+ 8  
+
+Remarks by Michael Kratsios, Deputy Assistant to the   
+President for Technology Policy  
+
+Distinguished members of academia, private industry, and the Administration, OSTP is pleased to welcome you to today’s summit on Artificial Intelligence and American Industry.   
+The advent of AI traces its roots back to over six decades ago — when computers were the size of desks and had only enough memory for a few pages of text.  
+In the summer of 1956, a dozen American scientists gathered on Dartmouth’s campus with the goal to, quote, “find how to make machines solve kinds of problems now reserved for humans.”   
+Considering technology at the time, their goal was audacious. But Americans have always been audacious.   
+We founded the field of artificial intelligence that summer in 1956, and we’ve led the world in artificial intelligence since.  
+Now, nearly 62 years later, the age of artificial intelligence is here, and with it the hope of better lives for the American people.   
+As artificial intelligence transforms everything from agriculture to manufacturing to transportation — the potential for AI remains breathtaking.   
+But we cannot be passive. To realize the full potential of AI for the American people, it will require the combined efforts of industry, academia, and government.   
+That is why we are all here today.   
+######  
+I recently had the pleasure of visiting Robotics 
+Row—a collection of start -ups that grew out of the ecosystem surrounding Carnegie Mellon in 
+Pittsburgh, Pennsylvania.  
+Pittsburgh has always been a proud, industrial city. But as factories closed across the  Midwest, the future looked desperate.   
+
+Today, there is a rebirth. People are transforming once empty factories into the cradle of America’s industrial future.   
+Now there are dozens of organizations on Robotics Row employing hundreds of people —engineers, scientists, bookkeepers, administrators.   
+One of these enterprises  —  the ARM Institute —   
+was started with government seed funding, is driven by the brilliance of university faculty and students, is fueled by the needs of industry, and is devoted to creating a workforce elevated by advanced manufacturing.   
+American AI Leadership  
+It’s not just Pittsburgh. Our Nation is the best place on earth to innovate.  
+According to industry studies, America not only has more AI startups than any other nation – nearly double our closest competitor – but America also has the most promising AI startups, with three-quarters of the world’s top 100.   
+Meanwhile, America has more AI researchers than any other nation, and those researchers publish the most impactful findings in the world.   
+Not only that, according to international studies, the top 8 –  and 13 of the top 20 –  universities for artificial intelligence are here in the U.S.  
+These univer sities, many of which are represented here today, will fuel AI technological breakthroughs for decades to come.   
+America has been the global leader in AI, and the 
+Trump Administration will ensure our great Nation remains the global leader in AI.  
+At the recent G7 summit, I led the U.S. delegation to declare alongside our allies the importance  of investing in AI R&D and our mutual goal to increase public trust as we adopt AI technologies.
+ 9  
+
+But I have also made clear that while America will always approach artificial intelligence prudently, we will not hamstring American potential on the international stage.   
+In August of last year, OMB Director Mulvaney and 
+I co-authored guidance to the heads of all executive departments and agencies regarding the Administration’s R&D Budget priorities.    
+Our guidance to agencies was clear: for the first time in history, the memorandum prioritized R&D investment in autonomous systems, machine learning, and quantum computing.  
+And when in February President Trump submit-ted his budget request for FY 2019, the proposal to Congress was even clearer: harnessing artificial intelligence is an Administration R&D priority, and I quote, “AI holds the potential to transform the lives of Americans.”  
+Our continued leadership in the field that American researchers pioneered is not just a request; it is an imperative.   
+It is an imperative because of the potential benefits to American industry, to the American worker, and to the American people.  
+And the Trump Administration is taking action to deliver those benefits.   
+Today, I would like to announce the creation of a new Select Committee on Artificial Intelligence under the National Science and Technology 
+Council.   
+This select committee will be comprised of the most senior R&D officials across the Federal Government. It  will align interagency R&D priorities and improve planning and coordination of Federal AI investments.   
+The American Worker  
+As we look ahead to today’s events, I want to focus on The White House approach to artificial intelligence and American industry —particularly how we can support the American worker, promote R&D, and remove barriers to innovation.   
+
+Artificial intelligence holds the promise of great benefits for American workers, with the potential to improve safety, increase productivity, and create new industries we can’t yet imagine.   
+However, to a certain degree job displacement is inevitable. But we can’t sit idle, hoping eventually the market will sort it out.   
+We must do what Americans have always done: 
+adapt.  
+President Trump will never forget the  American worker. To ease the transition for workers and aid industries hungry for talent, this Administration has taken multiple actions.  
+Last year, President Trump signed an executive order to promote the creation of industry -recognized apprenticeship programs.   
+More recently, he proposed making Pell grants available to workers of all different education levels for short-term retraining certifications.   
+A four year degree isn’t the right choice for everyone—and may not even be a practical possibility for more experienced workers.   
+Our policies must reflect the fact that people learn not just in lecture halls and libraries, but on factory floors, in offices, and out in the field.   
+We haven’t stopped there. Our proposal to expand broadband access, especially in rural areas, will allow more Americans to pursue online education, helping those far outside of tech hubs and wealthy urban centers.   
+As industry leaders in this room know, with the unemployment rate at 3.9 percent, a 17 -year low, the labor market is tight.   
+Our Nation particularly needs employees with skills in science, technology, engineering, and math. There are currently more than 500,000 open computing jobs nationwide.  
+To further close this jobs gap, last September 
+President Trump signed a memo to direct at least 200 million dollars per year in grant funding to 
+STEM and computer science education.
+ 10  
+
+Private industry immediately matched this commitment with another 300 million dollars, creating half a billion dollars of STEM education investment overnight.   
+Later this year, my office will also release a 5-year strategic plan to better coordinate STEM education programs across the Federal government.   
+AI R&D Leadership  
+Alongside our ongoing work to prepare America’s workforce for the future, this Admi nistration has increased focus on research and development.    
+Our free-market approach to scientific discovery harnesses the combined strength of government, industry, and academia, and uniquely positions us to leverage artificial intelligence for the betterment of our great Nation.  
+We’ve already made America the best in the world for AI research and development. Our task now is to make sure America stays the best.   
+In the private sector, we will not dictate what is researched and developed. Instead we will offer resources and the freedom to explore.   
+Though the lion’s share of AI spending is in the private sector, a necessary part of our R&D ecosystem is government funding.  
+In 2017, the Federal government spent billions on unclassified AI research and development and another billion on high-performance computing.   
+President Trump’s FY 2019 budget requests significant increases in funding for both of these priorities.   
+But this is about more than just funding.   
+Researchers could benefit tremendously from expanded access to the Federal government’s net-work of national labs.  
+Likewise, AI research is fueled by immense amounts of training data.  
+We can greatly improve that research by opening access to the governmen t’s vast troves of taxpayer-funded data in ways that don’t compromise privacy or security.   
+
+However, it’s not enough for government to support AI innovation in the private sector. We must bring AI into government as well.  
+Under President Trump, many agenc ies are already at work.   
+The General Services Administration is piloting a program to predict regulatory compliance using 
+AI, saving taxpayer money by greatly reducing the need for Federal auditors.   
+The National Institute of Health is exploring ways machine learning can improve cancer detection and treatment.  
+And the Department of Energy and the VA have teamed up on a program called MVP Champion, using AI to improve health analytics and outcomes for our veterans.   
+Removing Barriers to Innovation  
+As we’re making great strides within the Administration, to the rest of America often the most significant action our government can take is to get out of the way.   
+Our Administration is not in the business of conquering imaginary beasts. We will not try to “solve” problems that don’t exist.   
+To the greatest degree possible, we will allow scientists and technologists to freely develop their next great inventions right here in the United 
+States.   
+Command-control policies will never be able to keep up. Nor will we limit ourselves with international commitments rooted in fear of worst-casescenarios.   
+We didn’t roll out the red tape before Edison turned on the first lightbulb.  
+We didn’t cut the lines before Alexander Graham bell made the first telephone call.    
+We didn’t regulate flight before the Wright Brothers took off at Kitty Hawk.   
+And as those great inventions took decades to fully develop, artificial intelligence will too. But today it is still in its infancy.
+ 11  
+
+Though we can envision a number of potential benefits and challenges, most are still unknown — 
+that fact is no excuse for preemptive government intervention.   
+Today, drones are delivering life- saving medicines in Africa. But because of overbearing regulations in America, what saves lives in Rwanda is banned in Raleigh.   
+Erecting barriers to innovation does not stop the future; it makes the future move overseas.  
+Under the Trump Administration, we are removing barriers to innovation wherever and when-ever we can to let American industry, American thinkers, and American workers reach their greatest potential.   
+######  
+It’s been an extremely active time in our country.   
+This Administration has already developed policies to train American workers, negotiated international AI statements, and invested billions of dollars in research and development.   
+To align interagency R&D priorities, we formed the Select Committee on Artificial Intelligence.   
+By removing barriers to innovation and using government labs and data to improve research, 
+American ecosystems of innovation like Pittsburgh’s Robotics Row will be able to preserve and even improve American dominance in artificial intelligence.   
+
+And in all  of this we must remember our shared goal: to benefit the American people in everything we do.   
+We can only succeed if the American people succeed—only if they have jobs they can be proud of, only if they have neighborhoods and cities on the rise, only if their lives and relationships are enriched, not estranged, by the technology we invent.   
+I have every reason to believe we can accomplish this. Generation after generation, American innovation has benefited our people and the entire world.   
+American oil fueled world industries.   
+American medicine conquered diseases.    
+American computers opened information in ways inconceivable to the rest of human history.  
+Today, with so many of the mysteries of quantum computing, autonomous systems, and machine learning yet to be discovered, we can take hold of the future and make it our own.  
+With industry, academia, and a government resolutely on the side of the American people, our common future holds the promise of strength, of success, and of wonder.  
+Thank you.   
+######  
+
+  
+
+Appendix A: Charter of the Select Committee on   
+Artificial Intelligence
+
+Page 1 of 3  
+
+Charter of the  
+NATIONAL SCIENCE AND TECHNOLOGY COUNCIL  
+SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE  
+A. Official Designation 
+The Select Committee on Artificial Intelligence (“Select Commit tee”) is hereby established by action the Science Technology (NSTC).  he NSTC, a Cabinet-level council, the means  r President  to   and (S&T) policies across the Executive Branch. 
+B. Purpose and Scope 
+The purpose of the Select Committ ee is to advise and assist the  NSTC to improve the overall effectiveness productivity  f research developm ent efforts to artificial (AI). Select will   national international matters cut agency  and provide formal mechanism interagency coordination the  nt Federal intelligence activities, including those related to autonomous  systems, biometric identification, computer vision, human-computer interactions, machine learning,  natural language processing, and robotics. 
+The Select Committee will act to improve the coordination of Fe deral efforts related to AI to ensure continued U.S. leadership in this field. This will include advi sing the Executive Office of the  
+President interagency R&D creating and AI programs, including consideratio n of agency partnerships with a cademia and industry; establishing structures to improve the way t he Federal government plans and  coordinates AI R&D; leveraging  
+Federal data and computational resources across department and agency missions; and supporting a technical, national AI workforce. 
+C. Functions 
+In accordance with the NSTC Executive Order 12881, as amended, and to the extent permitted by law, the principal functions of the Select Committee are to:  
+(i)   facilitate R&D coord ination, communication  ng departments and agencies; (ii)   identify, define, and advise the  NSTC on interagency priorities  and plans related to AI, including priority areas of AI R &D critical to national security, and recommend options for Administration R&D priorities;
+
+Page 2 of 3 (iii) encourage AI-related and including with academia industry, enhance national,  and competitiveness and foster long-term economic growth and job creation; (iv) identify opportunities to improve the quality of Federal datasets for AI applications, and increase access to Federal data and computational resources for the non-Federal AI 
+R&D community, as appropriate and as permitted by law; and (v) coordinate with other NSTC committees and facilitate NSTC clearance of documents generated by interagency groups that are established under its sponsorship. 
+The Select Committee shall take such actions as may be necessary or appropriate to implement such functions. 
+D. Membership 
+The Committee be by Office Science and Policy, 
+National Science Foundation, and the Defense Advanced Research Projects Agency. 
+Committee membership shall include: 
+(i) Undersecretary of Commerce for Standards and Technology, Department of 
+Commerce; (ii) Undersecretary of Defense for Research and Engineering, Department of Defense; (iii) Director of the Defense Advanced Research Projects Agency, Department of Defense (Co-Chair); (iv) Undersecretary of Energy for Science, Department of Energy; (v) Director of the National Science Foundation (Co-Chair); (vi) Director of the Intelligence Advanced Research Projects Agency, Office of the 
+Director of National Intelligence; and 
+Representatives from the following Executive Office of the President (EOP) components: 
+(vii) National Security Council; (viii) Office of Management and Budget, Office of the Federal Chief Information Officer; (ix) Office of Management and Budget; and (x) Office of Science and Technology Policy (Co-Chair). 
+As necessary, the Select Committee co-chairs may designate other departments, agencies, and EOP components to be represented on the Select Committee. 
+E. Private-Sector Interface 
+The Select Committee may also interact with and receive ad hoc advice from various private-sector groups as consistent with the Federal Advisory Committee Act, 5 U.S.C. App., as amended.

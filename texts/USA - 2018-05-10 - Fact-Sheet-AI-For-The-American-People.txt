@@ -1,0 +1,35 @@
+FACT SHEETS
+
+Artificial Intelligence for the American People
+ INFRASTRUCTURE & TECHNOLOGY
+
+  Issued on: May 10, 2018
+
+"We’re on the verge of new technological revolutions that could improve virtually every aspect of our lives, create vast new wealth for American workers and families, and open up bold, new frontiers in science, medicine, and communication" - President Donald J. Trump
+
+PRIORITIZING FUNDING FOR ARTIFICIAL INTELLIGENCE (AI) RESEARCH AND DEVELOPMENT (R&D): The Trump Administration has prioritized funding for fundamental AI research and computing infrastructure, machine learning, and autonomous systems.
+
+The Federal Government’s investment in unclassified R&D for AI and related technologies has grown by over 40% since 2015, in addition to substantial classified investments across the defense and intelligence communities.
+In the annual guidance to heads of executive departments and agencies, Office of Management and Budget (OMB) and the White House Office Science and Technology Policy (OSTP) directed agencies to focus on emerging technologies including machine learning and autonomous systems.
+President Trump’s FY2019 Budget Request was the first in history to designate artificial intelligence and autonomous and unmanned systems as Administration R&D priorities.
+REMOVING BARRIERS TO AI INNOVATION: The Trump Administration is enabling the creation of new American industries by removing regulatory barriers to the deployment of AI-powered technologies.
+
+Last September, the Department of Transportation released an update to the 2016 Federal Automated Vehicles Policy, providing non-regulatory guidance to automated vehicle developers to enable the safe integration of driverless cars onto American roadways.
+In October, President Trump signed a Presidential Memorandum to permit States and localities to conduct innovative commercial and public drone operations currently prohibited under FAA regulations.
+Last month, the FDA approved the first ever AI-based device for medical diagnostics to detect diabetic retinopathy, the leading cause of blindness among working-age Americans.
+TRAINING THE FUTURE AMERICAN WORKFORCE: President Trump has taken Executive action to give the American worker the skills to succeed in the 21st century economy.
+
+Last June, President Trump signed an Executive Order establishing industry-recognized apprenticeships and creating a cabinet-level Task Force on Apprenticeship Expansion.
+In September, President Trump signed a Presidential Memorandum prioritizing high-quality Science, Technology, Engineering, and Math (STEM) education, with a particular focus on computer science education, and committing $200 million in grant funds that were matched by a private industry commitment of $300 million.
+ACHIEVING STRATEGIC MILITARY ADVANTAGE: The Trump Administration’s National Security Strategy recognizes the need to lead in artificial intelligence, and the Department of Defense is investing accordingly.
+
+President Trump’s National Security Strategy was the first in history to specifically call out the importance of AI for the future of the American military.
+The National Defense Strategy committed to investing broadly in military applications of autonomy, AI, and machine learning.
+LEVERAGING AI FOR GOVERNMENT SERVICES: Executive departments and agencies are applying AI to improve the provision of government services to the American people.
+
+The President’s Management Agenda calls for using automation software to improve efficiency of government services and maximizing Federal data sharing with the American public, which will support non-Federal AI research applications.
+The General Services Administration is conducting pilot programs that leverage AI, including a tool to predict regulatory compliance that is scheduled for production in cloud.gov this year.
+LEADING INTERNATIONAL AI NEGOTIATIONS: White House OSTP led U.S. delegations to the 2017 and 2018 G7 Innovation and Technology Ministerials, and is working with our allies to recognize the potential benefits of AI and promote AI R&D.
+
+In March, OSTP negotiated the 2018 G7 Innovation Ministers’ Statement on Artificial Intelligence, following an AI outcome document from the 2017 G7 innovation ministerial, which recognizes the importance of AI innovation for economic growth and supports efforts to promote trust in and adoption of AI technologies.
+The Trump Administration is also pursuing international AI R&D collaboration through agreements such as the first-ever Science and Technology (S&T) agreement between the United States and the United Kingdom and the March Joint Statement between the United States and France on S&T cooperation.
