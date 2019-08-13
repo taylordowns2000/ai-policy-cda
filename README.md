@@ -1,3 +1,3 @@
 # ai-policy-cda
 
-[How](how.png)
+![How](how.png)
