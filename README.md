@@ -1,5 +1,9 @@
 # ai-policy-cda
 
+In August 2019, I performed a critical discourse analysis on AI policy communications from the current US administration and supplemented that qualitative analysis with limited quantitative text analysis methods. The results are below, the texts can be found at [texts](/texts), and the word categorization model for WordStat 8.0 can be downloaded here: https://github.com/taylordowns2000/ai-policy-cda/blob/master/securitization-tech-policy.wmodel
+
+![How](how.png)
+
 ## mentions by corpus
 | CORPUS  | ECONOMIC COMPETITIVENESS | AUTOMATION & LABOR MARKET | NATIONAL_IDENTITY | NATIONAL SECURITY | @SECURITY_-->_COMPETITIVE |
 |---------|--------------------------|---------------------------|-------------------|-------------------|---------------------------|
@@ -25,5 +29,3 @@
 | 2019-03-19 | AI-dot-gov                                          | Trump   | 187.4665238              | 50.50321371               | 171.3979646       | 85.69898232       | 18.74665238                 |
 | 2019-05-21 | UK-AI-Sector-Deal                                   | Foreign | 326.6157054              | 31.15893974               | 21.84056388       | 4.963764519       | 1.985505808                 |
 | 2019-06-21 | National-AI-Research-and-Development-Strategic-Plan | Trump   | 102.6572791              | 11.4096298                | 61.77606178       | 38.61003861       | 5.905064729                 |
-
-![How](how.png)
