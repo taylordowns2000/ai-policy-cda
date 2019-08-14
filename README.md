@@ -3,9 +3,9 @@
 ## mentions by corpus
 | CORPUS  | ECONOMIC COMPETITIVENESS | AUTOMATION & LABOR MARKET | NATIONAL_IDENTITY | NATIONAL SECURITY | @SECURITY_-->_COMPETITIVE |
 |---------|--------------------------|---------------------------|-------------------|-------------------|---------------------------|
-| Trump   | 142.507                  | 25.815                    | 21.75             | 24.288            | 7.25                      |
+| Foreign | 254.839                  | 30.45                     | 21.75             | 24.288            | 7.25                      |
 | Obama   | 74.988                   | 87.652                    | 31.328            | 33.328            | 6.666                     |
-| Foreign | 254.839                  | 30.45                     | 108.527           | 57.688            | 14.224                    |
+| Trump   | 142.507                  | 25.815                    | 108.527           | 57.688            | 14.224                    |
 
 ## mentions by document
 | FILE                                                             | CORPUS  | ECONOMIC COMPETITIVENESS | AUTOMATION & LABOR MARKET | NATIONAL IDENTITY | NATIONAL SECURITY | SECURITY BEFORE COMPETITION |
