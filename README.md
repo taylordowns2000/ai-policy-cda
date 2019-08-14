@@ -8,22 +8,22 @@
 | Trump   | 142.507                  | 25.815                    | 108.527           | 57.688            | 14.224                    |
 
 ## mentions by document
-| FILE                                                             | CORPUS  | ECONOMIC COMPETITIVENESS | AUTOMATION & LABOR MARKET | NATIONAL IDENTITY | NATIONAL SECURITY | SECURITY BEFORE COMPETITION |
-|------------------------------------------------------------------|---------|--------------------------|---------------------------|-------------------|-------------------|-----------------------------|
-| 2016-05-03 - Announcement - Preparing for the Future of AI       | Obama   | 49.08                    | 27.49                     | 36.81             | 12.27             | 0.00                        |
-| 2016-10-12 - Preparing For the Future of AI                      | Obama   | 73.92                    | 32.25                     | 18.94             | 53.59             | 12.47                       |
-| 2016-10-12 - Press Release on AI Reports                         | Obama   | 110.34                   | 46.32                     | 82.76             | 0.00              | 0.00                        |
-| 2016-10-13 - National AI R&D Strategy                            | Obama   | 61.32                    | 16.77                     | 25.32             | 37.13             | 5.63                        |
-| 2016-12-20 - AI and the Economy                                  | Obama   | 89.87                    | 217.79                    | 47.67             | 9.32              | 1.64                        |
-| 2016-12-20 - Press Release on Automation Report                  | Obama   | 62.50                    | 296.43                    | 75.00             | 0.00              | 0.00                        |
-| 2017-03-31 - Japan-AI-Technology-Strategy                        | Foreign | 209.77                   | 21.44                     | 18.91             | 12.04             | 1.72                        |
-| 2017-07-08 - China-New-Generation-of-AI-Development-Plan         | Foreign | 215.44                   | 34.91                     | 23.08             | 47.02             | 14.53                       |
-| 2019-05-21 - UK-AI-Sector-Deal                                   | Foreign | 326.62                   | 31.16                     | 21.84             | 4.96              | 1.99                        |
-| 2018-05-10 - Fact-Sheet-AI-For-The-American-People               | Trump   | 255.64                   | 47.35                     | 105.26            | 90.23             | 30.08                       |
-| 2018-05-10 - Summary of AI Summit                                | Trump   | 239.31                   | 49.07                     | 178.90            | 62.73             | 18.59                       |
-| 2019-02-11 - EO - Artificial Intelligence                        | Trump   | 127.97                   | 29.48                     | 131.63            | 95.06             | 40.22                       |
-| 2019-02-11 - Press-Release-on-EO-Accelerating-America            | Trump   | 257.73                   | 43.93                     | 360.82            | 141.75            | 77.32                       |
-| 2019-03-19 - AI-dot-gov                                          | Trump   | 187.47                   | 50.50                     | 171.40            | 85.70             | 18.75                       |
-| 2019-06-21 - National-AI-Research-and-Development-Strategic-Plan | Trump   | 102.66                   | 11.41                     | 61.78             | 38.61             | 5.91                        |
+| Date       | Name                                                | CORPUS  | ECONOMIC COMPETITIVENESS | AUTOMATION & LABOR MARKET | NATIONAL IDENTITY | NATIONAL SECURITY | SECURITY BEFORE COMPETITION |
+|------------|-----------------------------------------------------|---------|--------------------------|---------------------------|-------------------|-------------------|-----------------------------|
+| 2016-05-03 | Announcement - Preparing for the Future of AI       | Obama   | 49.0797546               | 27.48588957               | 36.80981595       | 12.26993865       | 0                           |
+| 2016-10-12 | Preparing For the Future of AI                      | Obama   | 73.92007392              | 32.25433125               | 18.94201894       | 53.59205359       | 12.47401247                 |
+| 2016-10-12 | Press Release on AI Reports                         | Obama   | 110.3448276              | 46.31586207               | 82.75862069       | 0                 | 0                           |
+| 2016-10-13 | National AI R&D Strategy                            | Obama   | 61.31863186              | 16.77227723               | 25.3150315        | 37.12871287       | 5.625562556                 |
+| 2016-12-20 | AI and the Economy                                  | Obama   | 89.86793797              | 217.7868376               | 47.67384514       | 9.315578936       | 1.643925695                 |
+| 2016-12-20 | Press Release on Automation Report                  | Obama   | 62.5                     | 296.425                   | 75                | 0                 | 0                           |
+| 2017-03-31 | Japan-AI-Technology-Strategy                        | Foreign | 209.7661623              | 21.44325997               | 18.9133425        | 12.03576341       | 1.719394773                 |
+| 2017-07-08 | China-New-Generation-of-AI-Development-Plan         | Foreign | 215.4398564              | 34.90903651               | 23.08284175       | 47.02060357       | 14.5336411                  |
+| 2018-05-10 | Fact-Sheet-AI-For-The-American-People               | Trump   | 255.6390977              | 47.34887218               | 105.2631579       | 90.22556391       | 30.07518797                 |
+| 2018-05-10 | Summary of AI Summit                                | Trump   | 239.3122677              | 49.06575279               | 178.9033457       | 62.73234201       | 18.58736059                 |
+| 2019-02-11 | EO - Artificial Intelligence                        | Trump   | 127.9707495              | 29.48043876               | 131.6270567       | 95.06398537       | 40.21937843                 |
+| 2019-02-11 | Press-Release-on-EO-Accelerating-America            | Trump   | 257.7319588              | 43.93041237               | 360.8247423       | 141.7525773       | 77.31958763                 |
+| 2019-03-19 | AI-dot-gov                                          | Trump   | 187.4665238              | 50.50321371               | 171.3979646       | 85.69898232       | 18.74665238                 |
+| 2019-05-21 | UK-AI-Sector-Deal                                   | Foreign | 326.6157054              | 31.15893974               | 21.84056388       | 4.963764519       | 1.985505808                 |
+| 2019-06-21 | National-AI-Research-and-Development-Strategic-Plan | Trump   | 102.6572791              | 11.4096298                | 61.77606178       | 38.61003861       | 5.905064729                 |
 
 ![How](how.png)
