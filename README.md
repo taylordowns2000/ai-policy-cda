@@ -1,6 +1,4 @@
-# Depoliticizing AI Policy
-## HOW SECURITIZATION AND THE LOGIC OF COMPETITIVENESS IN THE TRUMP ADMINISTRATION’S AI POLICY COMMUNICATIONS REPRODUCE STRUCTURES OF DOMINANCE
-
+# Supplementary quantitative methods for a CDA of AI policy communications
 
 In August 2019, I performed a critical discourse analysis on AI policy communications from the current US administration and supplemented that qualitative analysis with limited quantitative text analysis methods. The results are below, the texts can be found at [texts](/texts), and the word categorization model for WordStat 8.0 can be downloaded [here](https://github.com/taylordowns2000/ai-policy-cda/blob/master/securitization-tech-policy.wmodel)
 
