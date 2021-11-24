@@ -1,3 +1,5 @@
+Also backwards?
+
 Preparing for the Future of Artificial Intelligence
 MAY 3, 2016 AT 3:01 PM ET BY ED FELTEN
 Summary: Today, we're announcing a new series of workshops and an interagency working group to learn more about the benefits and risks of artificial intelligence.
