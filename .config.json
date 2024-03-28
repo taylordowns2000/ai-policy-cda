@@ -1,0 +1,5 @@
+{
+  // Optional: defaults to OpenFn.org's API, can be overridden or set with
+  // `OPENFN_ENDPOINT` env var
+  "endpoint": "https://localhost:4000"
+}
