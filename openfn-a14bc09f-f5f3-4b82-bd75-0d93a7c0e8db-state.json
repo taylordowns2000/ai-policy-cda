@@ -14,43 +14,18 @@
       "id": "386d8c04-0193-4080-8906-3a4e447856fd",
       "name": "Sample Workflow",
       "inserted_at": "2024-04-05T17:17:28",
-      "updated_at": "2024-04-05T18:13:59",
+      "updated_at": "2024-04-05T18:14:43",
       "project_id": "a14bc09f-f5f3-4b82-bd75-0d93a7c0e8db",
       "deleted_at": null,
-      "edges": {
-        "Job-1---Check-if-age-is-over-18-months->Job-2---Convert-data-to-DHIS2-format": {
+      "triggers": {
+        "webhook": {
           "enabled": true,
-          "id": "12575232-ee26-40ef-9a70-71be617d2d7a",
-          "source_job_id": "d80285a3-d54c-4750-842c-762aacc3e511",
-          "condition_type": "on_job_success",
-          "target_job_id": "e8d8b23f-44f1-46ea-9b9f-96b6428feff6"
-        },
-        "Job-2---Convert-data-to-DHIS2-format->Job-3---Upload-to-DHIS2": {
-          "enabled": true,
-          "id": "60f065be-cae6-481f-96f5-2a47b8c8e174",
-          "source_job_id": "e8d8b23f-44f1-46ea-9b9f-96b6428feff6",
-          "condition_type": "on_job_success",
-          "target_job_id": "3db4b250-a437-420a-b16e-885270d80361"
-        },
-        "webhook->Job-1---Check-if-age-is-over-18-months": {
-          "enabled": true,
-          "id": "2154da31-4f53-4bd2-9e47-2026d7bb727b",
-          "source_trigger_id": "ee93cfbe-dfe9-4482-a7e1-2715a2e54c8e",
-          "condition_type": "js_expression",
-          "condition_expression": "true",
-          "condition_label": "sa",
-          "target_job_id": "d80285a3-d54c-4750-842c-762aacc3e511"
-        },
-        "Job-3---Upload-to-DHIS2->new": {
-          "enabled": true,
-          "id": "201c0e42-1f9e-4f13-9c04-9b7abfa5eeae",
-          "source_job_id": "3db4b250-a437-420a-b16e-885270d80361",
-          "condition_type": "on_job_success",
-          "target_job_id": "7c35587f-415c-4210-b041-b692bf656ce6"
+          "id": "ee93cfbe-dfe9-4482-a7e1-2715a2e54c8e",
+          "type": "webhook"
         }
       },
       "jobs": {
-        "Job-1---Check-if-age-is-over-18-months": {
+        "Job-1---Check-if-age-is-over-19-months": {
           "id": "d80285a3-d54c-4750-842c-762aacc3e511",
           "name": "Job 1 - Check if age is over 19 months",
           "body": "fn(state => {\n  if (state.data.age_in_months > 18) {\n    console.log('Eligible for program.');\n    return state;\n  }\n  else { throw 'Error, patient ineligible.' }\n});\n",
@@ -59,7 +34,7 @@
         "Job-2---Convert-data-to-DHIS2-format": {
           "id": "e8d8b23f-44f1-46ea-9b9f-96b6428feff6",
           "name": "Job 2 - Convert data to DHIS2 format",
-          "body": "fn(state => {\n  const names = state.data.name.split(' ');\n  return { ...state, names };\n});\n",
+          "body": "fn(state => {\n  const names = state.data.name.split(' ');\n  return { ...state, names };\n  // emile smith rowe\n});\n",
           "adaptor": "@openfn/language-common@latest"
         },
         "Job-3---Upload-to-DHIS2": {
@@ -75,11 +50,36 @@
           "adaptor": "@openfn/language-common@latest"
         }
       },
-      "triggers": {
-        "webhook": {
+      "edges": {
+        "Job-1---Check-if-age-is-over-19-months->Job-2---Convert-data-to-DHIS2-format": {
           "enabled": true,
-          "id": "ee93cfbe-dfe9-4482-a7e1-2715a2e54c8e",
-          "type": "webhook"
+          "id": "12575232-ee26-40ef-9a70-71be617d2d7a",
+          "source_job_id": "d80285a3-d54c-4750-842c-762aacc3e511",
+          "condition_type": "on_job_success",
+          "target_job_id": "e8d8b23f-44f1-46ea-9b9f-96b6428feff6"
+        },
+        "Job-2---Convert-data-to-DHIS2-format->Job-3---Upload-to-DHIS2": {
+          "enabled": true,
+          "id": "60f065be-cae6-481f-96f5-2a47b8c8e174",
+          "source_job_id": "e8d8b23f-44f1-46ea-9b9f-96b6428feff6",
+          "condition_type": "on_job_success",
+          "target_job_id": "3db4b250-a437-420a-b16e-885270d80361"
+        },
+        "webhook->Job-1---Check-if-age-is-over-19-months": {
+          "enabled": true,
+          "id": "2154da31-4f53-4bd2-9e47-2026d7bb727b",
+          "source_trigger_id": "ee93cfbe-dfe9-4482-a7e1-2715a2e54c8e",
+          "condition_type": "js_expression",
+          "condition_expression": "true",
+          "condition_label": "sa",
+          "target_job_id": "d80285a3-d54c-4750-842c-762aacc3e511"
+        },
+        "Job-3---Upload-to-DHIS2->new": {
+          "enabled": true,
+          "id": "201c0e42-1f9e-4f13-9c04-9b7abfa5eeae",
+          "source_job_id": "3db4b250-a437-420a-b16e-885270d80361",
+          "condition_type": "on_job_success",
+          "target_job_id": "7c35587f-415c-4210-b041-b692bf656ce6"
         }
       }
     }
