@@ -7,7 +7,7 @@ workflows:
     name: Sample Workflow
     jobs:
       Job-1---Check-if-age-is-over-18-months:
-        name: Job 1 - Check if age is over 18 months
+        name: Job 1 - Check if age is over 19 months
         adaptor: '@openfn/language-common@latest'
         # credential:
         # globals:
